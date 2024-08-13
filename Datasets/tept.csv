@@ -1,0 +1,501 @@
+VARIACAO,HUMOR,COGNICAO,COMPORTAMENTO,PERCEPCAO,FISIOLOGICO,RISCO,DURACAO,RESULTADO
+1,medo,lembranca recorrente,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+2,desespero,revivencia,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+3,horror,pesadelos,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+4,raiva,amnesia dissociativa,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+5,culpa,expectativa negativa,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+6,vergonha,cognicao erronea,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+7,anedonia,dificuldade de concentracao,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+8,disforia,preocupacao,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+9,sofrimento prolongado,ideias paranoides,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+10,sofrimento intenso,luto complicado,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+11,irritacao,lembranca recorrente,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+12,emocoes positivas ausentes,revivencia,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+13,medo,pesadelos,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+14,desespero,amnesia dissociativa,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+15,horror,expectativa negativa,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+16,raiva,cognicao erronea,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+17,culpa,dificuldade de concentracao,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+18,vergonha,preocupacao,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+19,anedonia,ideias paranoides,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+20,disforia,luto complicado,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+21,sofrimento prolongado,lembranca recorrente,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+22,sofrimento intenso,revivencia,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+23,irritacao,pesadelos,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+24,emocoes positivas ausentes,amnesia dissociativa,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+25,medo,expectativa negativa,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+26,desespero,cognicao erronea,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+27,horror,dificuldade de concentracao,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+28,raiva,preocupacao,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+29,culpa,ideias paranoides,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+30,vergonha,luto complicado,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+31,anedonia,lembranca recorrente,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+32,disforia,revivencia,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+33,sofrimento prolongado,pesadelos,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+34,sofrimento intenso,amnesia dissociativa,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+35,irritacao,expectativa negativa,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+36,emocoes positivas ausentes,cognicao erronea,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+37,medo,dificuldade de concentracao,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+38,desespero,preocupacao,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+39,horror,ideias paranoides,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+40,raiva,luto complicado,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+41,culpa,lembranca recorrente,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+42,vergonha,revivencia,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+43,anedonia,pesadelos,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+44,disforia,amnesia dissociativa,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+45,sofrimento prolongado,expectativa negativa,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+46,sofrimento intenso,cognicao erronea,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+47,irritacao,dificuldade de concentracao,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+48,emocoes positivas ausentes,preocupacao,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+49,medo,ideias paranoides,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+50,desespero,luto complicado,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+51,horror,lembranca recorrente,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+52,raiva,revivencia,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+53,culpa,pesadelos,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+54,vergonha,amnesia dissociativa,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+55,anedonia,expectativa negativa,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+56,disforia,cognicao erronea,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+57,sofrimento prolongado,dificuldade de concentracao,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+58,sofrimento intenso,preocupacao,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+59,irritacao,ideias paranoides,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+60,emocoes positivas ausentes,luto complicado,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+61,medo,lembranca recorrente,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+62,desespero,revivencia,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+63,horror,pesadelos,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+64,raiva,amnesia dissociativa,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+65,culpa,expectativa negativa,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+66,vergonha,cognicao erronea,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+67,anedonia,dificuldade de concentracao,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+68,disforia,preocupacao,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+69,sofrimento prolongado,ideias paranoides,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+70,sofrimento intenso,luto complicado,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+71,irritacao,lembranca recorrente,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+72,emocoes positivas ausentes,revivencia,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+73,medo,pesadelos,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+74,desespero,amnesia dissociativa,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+75,horror,expectativa negativa,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+76,raiva,cognicao erronea,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+77,culpa,dificuldade de concentracao,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+78,vergonha,preocupacao,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+79,anedonia,ideias paranoides,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+80,disforia,luto complicado,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+81,sofrimento prolongado,lembranca recorrente,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+82,sofrimento intenso,revivencia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+83,irritacao,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+84,emocoes positivas ausentes,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+85,medo,expectativa negativa,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+86,desespero,cognicao erronea,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+87,horror,dificuldade de concentracao,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+88,raiva,preocupacao,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+89,culpa,ideias paranoides,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+90,vergonha,luto complicado,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+91,anedonia,lembranca recorrente,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+92,disforia,revivencia,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+93,sofrimento prolongado,pesadelos,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+94,sofrimento intenso,amnesia dissociativa,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+95,irritacao,expectativa negativa,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+96,emocoes positivas ausentes,cognicao erronea,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+97,medo,dificuldade de concentracao,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+98,desespero,preocupacao,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+99,horror,ideias paranoides,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+100,raiva,luto complicado,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+101,culpa,lembranca recorrente,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+102,vergonha,revivencia,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+103,anedonia,pesadelos,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+104,disforia,amnesia dissociativa,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+105,sofrimento prolongado,expectativa negativa,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+106,sofrimento intenso,cognicao erronea,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+107,irritacao,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+108,emocoes positivas ausentes,preocupacao,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+109,medo,ideias paranoides,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+110,desespero,luto complicado,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+111,horror,lembranca recorrente,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+112,raiva,revivencia,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+113,culpa,pesadelos,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+114,vergonha,amnesia dissociativa,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+115,anedonia,expectativa negativa,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+116,disforia,cognicao erronea,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+117,sofrimento prolongado,dificuldade de concentracao,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+118,sofrimento intenso,preocupacao,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+119,irritacao,ideias paranoides,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+120,emocoes positivas ausentes,luto complicado,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+121,medo,lembranca recorrente,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+122,desespero,revivencia,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+123,horror,pesadelos,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+124,raiva,amnesia dissociativa,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+125,culpa,expectativa negativa,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+126,vergonha,cognicao erronea,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+127,anedonia,dificuldade de concentracao,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+128,disforia,preocupacao,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+129,sofrimento prolongado,ideias paranoides,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+130,sofrimento intenso,luto complicado,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+131,irritacao,lembranca recorrente,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+132,emocoes positivas ausentes,revivencia,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+133,medo,pesadelos,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+134,desespero,amnesia dissociativa,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+135,horror,expectativa negativa,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+136,raiva,cognicao erronea,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+137,culpa,dificuldade de concentracao,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+138,vergonha,preocupacao,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+139,anedonia,ideias paranoides,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+140,disforia,luto complicado,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+141,sofrimento prolongado,lembranca recorrente,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+142,sofrimento intenso,revivencia,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+143,irritacao,pesadelos,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+144,emocoes positivas ausentes,amnesia dissociativa,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+145,medo,expectativa negativa,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+146,desespero,cognicao erronea,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+147,horror,dificuldade de concentracao,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+148,raiva,preocupacao,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+149,culpa,ideias paranoides,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+150,vergonha,luto complicado,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+151,anedonia,lembranca recorrente,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+152,disforia,revivencia,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+153,sofrimento prolongado,pesadelos,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+154,sofrimento intenso,amnesia dissociativa,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+155,irritacao,expectativa negativa,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+156,emocoes positivas ausentes,cognicao erronea,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+157,medo,dificuldade de concentracao,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+158,desespero,preocupacao,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+159,horror,ideias paranoides,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+160,raiva,luto complicado,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+161,culpa,lembranca recorrente,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+162,vergonha,revivencia,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+163,anedonia,pesadelos,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+164,disforia,amnesia dissociativa,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+165,sofrimento prolongado,expectativa negativa,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+166,sofrimento intenso,cognicao erronea,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+167,irritacao,dificuldade de concentracao,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+168,emocoes positivas ausentes,preocupacao,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+169,medo,ideias paranoides,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+170,desespero,luto complicado,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+171,horror,lembranca recorrente,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+172,raiva,revivencia,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+173,culpa,pesadelos,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+174,vergonha,amnesia dissociativa,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+175,anedonia,expectativa negativa,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+176,disforia,cognicao erronea,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+177,sofrimento prolongado,dificuldade de concentracao,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+178,sofrimento intenso,preocupacao,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+179,irritacao,ideias paranoides,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+180,emocoes positivas ausentes,luto complicado,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+181,medo,lembranca recorrente,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+182,desespero,revivencia,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+183,horror,pesadelos,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+184,raiva,amnesia dissociativa,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+185,culpa,expectativa negativa,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+186,vergonha,cognicao erronea,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+187,anedonia,dificuldade de concentracao,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+188,disforia,preocupacao,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+189,sofrimento prolongado,ideias paranoides,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+190,sofrimento intenso,luto complicado,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+191,irritacao,lembranca recorrente,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+192,emocoes positivas ausentes,revivencia,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+193,medo,pesadelos,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+194,desespero,amnesia dissociativa,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+195,horror,expectativa negativa,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+196,raiva,cognicao erronea,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+197,culpa,dificuldade de concentracao,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+198,vergonha,preocupacao,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+199,anedonia,ideias paranoides,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+200,disforia,luto complicado,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+201,sofrimento prolongado,lembranca recorrente,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+202,sofrimento intenso,revivencia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+203,irritacao,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+204,emocoes positivas ausentes,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+205,medo,expectativa negativa,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+206,desespero,cognicao erronea,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+207,horror,dificuldade de concentracao,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+208,raiva,preocupacao,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+209,culpa,ideias paranoides,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+210,vergonha,luto complicado,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+211,anedonia,lembranca recorrente,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+212,disforia,revivencia,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+213,sofrimento prolongado,pesadelos,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+214,sofrimento intenso,amnesia dissociativa,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+215,irritacao,expectativa negativa,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+216,emocoes positivas ausentes,cognicao erronea,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+217,medo,dificuldade de concentracao,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+218,desespero,preocupacao,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+219,horror,ideias paranoides,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+220,raiva,luto complicado,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+221,culpa,lembranca recorrente,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+222,vergonha,revivencia,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+223,anedonia,pesadelos,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+224,disforia,amnesia dissociativa,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+225,sofrimento prolongado,expectativa negativa,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+226,sofrimento intenso,cognicao erronea,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+227,irritacao,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+228,emocoes positivas ausentes,preocupacao,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+229,medo,ideias paranoides,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+230,desespero,luto complicado,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+231,horror,lembranca recorrente,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+232,raiva,revivencia,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+233,culpa,pesadelos,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+234,vergonha,amnesia dissociativa,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+235,anedonia,expectativa negativa,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+236,disforia,cognicao erronea,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+237,sofrimento prolongado,dificuldade de concentracao,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+238,sofrimento intenso,preocupacao,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+239,irritacao,ideias paranoides,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+240,emocoes positivas ausentes,luto complicado,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+241,medo,lembranca recorrente,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+242,desespero,revivencia,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+243,horror,pesadelos,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+244,raiva,amnesia dissociativa,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+245,culpa,expectativa negativa,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+246,vergonha,cognicao erronea,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+247,anedonia,dificuldade de concentracao,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+248,disforia,preocupacao,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+249,sofrimento prolongado,ideias paranoides,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+250,sofrimento intenso,luto complicado,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+251,irritacao,lembranca recorrente,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+252,emocoes positivas ausentes,revivencia,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+253,medo,pesadelos,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+254,desespero,amnesia dissociativa,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+255,horror,expectativa negativa,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+256,raiva,cognicao erronea,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+257,culpa,dificuldade de concentracao,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+258,vergonha,preocupacao,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+259,anedonia,ideias paranoides,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+260,disforia,luto complicado,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+261,sofrimento prolongado,lembranca recorrente,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+262,sofrimento intenso,revivencia,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+263,irritacao,pesadelos,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+264,emocoes positivas ausentes,amnesia dissociativa,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+265,medo,expectativa negativa,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+266,desespero,cognicao erronea,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+267,horror,dificuldade de concentracao,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+268,raiva,preocupacao,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+269,culpa,ideias paranoides,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+270,vergonha,luto complicado,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+271,anedonia,lembranca recorrente,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+272,disforia,revivencia,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+273,sofrimento prolongado,pesadelos,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+274,sofrimento intenso,amnesia dissociativa,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+275,irritacao,expectativa negativa,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+276,emocoes positivas ausentes,cognicao erronea,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+277,medo,dificuldade de concentracao,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+278,desespero,preocupacao,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+279,horror,ideias paranoides,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+280,raiva,luto complicado,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+281,culpa,lembranca recorrente,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+282,vergonha,revivencia,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+283,anedonia,pesadelos,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+284,disforia,amnesia dissociativa,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+285,sofrimento prolongado,expectativa negativa,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+286,sofrimento intenso,cognicao erronea,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+287,irritacao,dificuldade de concentracao,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+288,emocoes positivas ausentes,preocupacao,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+289,medo,ideias paranoides,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+290,desespero,luto complicado,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+291,horror,lembranca recorrente,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+292,raiva,revivencia,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+293,culpa,pesadelos,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+294,vergonha,amnesia dissociativa,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+295,anedonia,expectativa negativa,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+296,disforia,cognicao erronea,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+297,sofrimento prolongado,dificuldade de concentracao,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+298,sofrimento intenso,preocupacao,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+299,irritacao,ideias paranoides,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+300,emocoes positivas ausentes,luto complicado,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+301,medo,lembranca recorrente,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+302,desespero,revivencia,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+303,horror,pesadelos,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+304,raiva,amnesia dissociativa,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+305,culpa,expectativa negativa,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+306,vergonha,cognicao erronea,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+307,anedonia,dificuldade de concentracao,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+308,disforia,preocupacao,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+309,sofrimento prolongado,ideias paranoides,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+310,sofrimento intenso,luto complicado,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+311,irritacao,lembranca recorrente,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+312,emocoes positivas ausentes,revivencia,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+313,medo,pesadelos,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+314,desespero,amnesia dissociativa,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+315,horror,expectativa negativa,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+316,raiva,cognicao erronea,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+317,culpa,dificuldade de concentracao,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+318,vergonha,preocupacao,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+319,anedonia,ideias paranoides,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+320,disforia,luto complicado,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+321,sofrimento prolongado,lembranca recorrente,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+322,sofrimento intenso,revivencia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+323,irritacao,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+324,emocoes positivas ausentes,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+325,medo,expectativa negativa,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+326,desespero,cognicao erronea,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+327,horror,dificuldade de concentracao,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+328,raiva,preocupacao,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+329,culpa,ideias paranoides,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+330,vergonha,luto complicado,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+331,anedonia,lembranca recorrente,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+332,disforia,revivencia,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+333,sofrimento prolongado,pesadelos,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+334,sofrimento intenso,amnesia dissociativa,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+335,irritacao,expectativa negativa,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+336,emocoes positivas ausentes,cognicao erronea,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+337,medo,dificuldade de concentracao,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+338,desespero,preocupacao,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+339,horror,ideias paranoides,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+340,raiva,luto complicado,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+341,culpa,lembranca recorrente,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+342,vergonha,revivencia,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+343,anedonia,pesadelos,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+344,disforia,amnesia dissociativa,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+345,sofrimento prolongado,expectativa negativa,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+346,sofrimento intenso,cognicao erronea,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+347,irritacao,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+348,emocoes positivas ausentes,preocupacao,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+349,medo,ideias paranoides,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+350,desespero,luto complicado,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+351,horror,lembranca recorrente,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+352,raiva,revivencia,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+353,culpa,pesadelos,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+354,vergonha,amnesia dissociativa,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+355,anedonia,expectativa negativa,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+356,disforia,cognicao erronea,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+357,sofrimento prolongado,dificuldade de concentracao,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+358,sofrimento intenso,preocupacao,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+359,irritacao,ideias paranoides,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+360,emocoes positivas ausentes,luto complicado,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+361,medo,lembranca recorrente,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+362,desespero,revivencia,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+363,horror,pesadelos,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+364,raiva,amnesia dissociativa,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+365,culpa,expectativa negativa,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+366,vergonha,cognicao erronea,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+367,anedonia,dificuldade de concentracao,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+368,disforia,preocupacao,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+369,sofrimento prolongado,ideias paranoides,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+370,sofrimento intenso,luto complicado,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+371,irritacao,lembranca recorrente,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+372,emocoes positivas ausentes,revivencia,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+373,medo,pesadelos,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+374,desespero,amnesia dissociativa,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+375,horror,expectativa negativa,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+376,raiva,cognicao erronea,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+377,culpa,dificuldade de concentracao,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+378,vergonha,preocupacao,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+379,anedonia,ideias paranoides,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+380,disforia,luto complicado,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+381,sofrimento prolongado,lembranca recorrente,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+382,sofrimento intenso,revivencia,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+383,irritacao,pesadelos,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+384,emocoes positivas ausentes,amnesia dissociativa,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+385,medo,expectativa negativa,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+386,desespero,cognicao erronea,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+387,horror,dificuldade de concentracao,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+388,raiva,preocupacao,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+389,culpa,ideias paranoides,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+390,vergonha,luto complicado,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+391,anedonia,lembranca recorrente,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+392,disforia,revivencia,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+393,sofrimento prolongado,pesadelos,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+394,sofrimento intenso,amnesia dissociativa,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+395,irritacao,expectativa negativa,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+396,emocoes positivas ausentes,cognicao erronea,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+397,medo,dificuldade de concentracao,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+398,desespero,preocupacao,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+399,horror,ideias paranoides,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+400,raiva,luto complicado,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+401,culpa,lembranca recorrente,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+402,vergonha,revivencia,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+403,anedonia,pesadelos,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+404,disforia,amnesia dissociativa,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+405,sofrimento prolongado,expectativa negativa,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+406,sofrimento intenso,cognicao erronea,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+407,irritacao,dificuldade de concentracao,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+408,emocoes positivas ausentes,preocupacao,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+409,medo,ideias paranoides,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+410,desespero,luto complicado,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+411,horror,lembranca recorrente,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+412,raiva,revivencia,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+413,culpa,pesadelos,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+414,vergonha,amnesia dissociativa,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+415,anedonia,expectativa negativa,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+416,disforia,cognicao erronea,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+417,sofrimento prolongado,dificuldade de concentracao,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+418,sofrimento intenso,preocupacao,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+419,irritacao,ideias paranoides,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+420,emocoes positivas ausentes,luto complicado,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+421,medo,lembranca recorrente,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+422,desespero,revivencia,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+423,horror,pesadelos,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+424,raiva,amnesia dissociativa,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+425,culpa,expectativa negativa,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+426,vergonha,cognicao erronea,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+427,anedonia,dificuldade de concentracao,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+428,disforia,preocupacao,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+429,sofrimento prolongado,ideias paranoides,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+430,sofrimento intenso,luto complicado,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+431,irritacao,lembranca recorrente,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+432,emocoes positivas ausentes,revivencia,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+433,medo,pesadelos,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+434,desespero,amnesia dissociativa,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+435,horror,expectativa negativa,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+436,raiva,cognicao erronea,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+437,culpa,dificuldade de concentracao,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+438,vergonha,preocupacao,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+439,anedonia,ideias paranoides,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+440,disforia,luto complicado,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+441,sofrimento prolongado,lembranca recorrente,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+442,sofrimento intenso,revivencia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+443,irritacao,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+444,emocoes positivas ausentes,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+445,medo,expectativa negativa,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+446,desespero,cognicao erronea,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+447,horror,dificuldade de concentracao,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+448,raiva,preocupacao,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+449,culpa,ideias paranoides,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+450,vergonha,luto complicado,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+451,anedonia,lembranca recorrente,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+452,disforia,revivencia,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+453,sofrimento prolongado,pesadelos,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+454,sofrimento intenso,amnesia dissociativa,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+455,irritacao,expectativa negativa,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+456,emocoes positivas ausentes,cognicao erronea,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+457,medo,dificuldade de concentracao,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+458,desespero,preocupacao,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+459,horror,ideias paranoides,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+460,raiva,luto complicado,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+461,culpa,lembranca recorrente,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+462,vergonha,revivencia,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+463,anedonia,pesadelos,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+464,disforia,amnesia dissociativa,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+465,sofrimento prolongado,expectativa negativa,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+466,sofrimento intenso,cognicao erronea,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+467,irritacao,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+468,emocoes positivas ausentes,preocupacao,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+469,medo,ideias paranoides,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+470,desespero,luto complicado,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+471,horror,lembranca recorrente,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+472,raiva,revivencia,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+473,culpa,pesadelos,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+474,vergonha,amnesia dissociativa,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+475,anedonia,expectativa negativa,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+476,disforia,cognicao erronea,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+477,sofrimento prolongado,dificuldade de concentracao,imprudente,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+478,sofrimento intenso,preocupacao,autodestrutivo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+479,irritacao,ideias paranoides,automutilante,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+480,emocoes positivas ausentes,luto complicado,suicida,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+481,medo,lembranca recorrente,reativo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+482,desespero,revivencia,evitativo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+483,horror,pesadelos,agressivo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+484,raiva,amnesia dissociativa,irritadico,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+485,culpa,expectativa negativa,imprudente,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+486,vergonha,cognicao erronea,autodestrutivo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+487,anedonia,dificuldade de concentracao,automutilante,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+488,disforia,preocupacao,suicida,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+489,sofrimento prolongado,ideias paranoides,reativo,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+490,sofrimento intenso,luto complicado,evitativo,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+491,irritacao,lembranca recorrente,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+492,emocoes positivas ausentes,revivencia,irritadico,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+493,medo,pesadelos,imprudente,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+494,desespero,amnesia dissociativa,autodestrutivo,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+495,horror,expectativa negativa,automutilante,pseudoalucinacoes auditivas,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+496,raiva,cognicao erronea,suicida,flashbacks,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+497,culpa,dificuldade de concentracao,reativo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico
+498,vergonha,preocupacao,evitativo,desrealizacao,perturbacao do sono,estrategias de enfrentamento inapropriadas,> 2 meses,transtorno de estresse pos-traumatico
+499,anedonia,ideias paranoides,agressivo,intrusao visual,reatividade fisiologica,evento traumatico,> 2 meses,transtorno de estresse pos-traumatico
+500,disforia,luto complicado,irritadico,intrusao sensorial,resposta de sobressalto exagerada,transtorno mental anterior,> 2 meses,transtorno de estresse pos-traumatico

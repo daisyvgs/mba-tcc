@@ -1,0 +1,501 @@
+VARIACAO,HUMOR,COGNICAO,COMPORTAMENTO,PERCEPCAO,FISIOLOGICO,RISCO,DURACAO,RESULTADO
+1,sofrimento prolongado,lembranca recorrente,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+2,sofrimento intenso,pesadelos,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+3,emocoes positivas ausentes,amnesia dissociativa,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+4,surtos de raiva,hipervigilancia,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+5,reatividade emocional,dificuldade de concentracao,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+6,medo,revivencia,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+7,tristeza,lembranca recorrente,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+8,raiva,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+9,culpa,amnesia dissociativa,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+10,vergonha,hipervigilancia,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+11,sofrimento prolongado,dificuldade de concentracao,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+12,sofrimento intenso,revivencia,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+13,emocoes positivas ausentes,lembranca recorrente,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+14,surtos de raiva,pesadelos,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+15,reatividade emocional,amnesia dissociativa,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+16,medo,hipervigilancia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+17,tristeza,dificuldade de concentracao,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+18,raiva,revivencia,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+19,culpa,lembranca recorrente,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+20,vergonha,pesadelos,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+21,sofrimento prolongado,amnesia dissociativa,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+22,sofrimento intenso,hipervigilancia,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+23,emocoes positivas ausentes,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+24,surtos de raiva,revivencia,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+25,reatividade emocional,lembranca recorrente,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+26,medo,pesadelos,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+27,tristeza,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+28,raiva,hipervigilancia,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+29,culpa,dificuldade de concentracao,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+30,vergonha,revivencia,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+31,sofrimento prolongado,lembranca recorrente,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+32,sofrimento intenso,pesadelos,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+33,emocoes positivas ausentes,amnesia dissociativa,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+34,surtos de raiva,hipervigilancia,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+35,reatividade emocional,dificuldade de concentracao,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+36,medo,revivencia,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+37,tristeza,lembranca recorrente,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+38,raiva,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+39,culpa,amnesia dissociativa,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+40,vergonha,hipervigilancia,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+41,sofrimento prolongado,dificuldade de concentracao,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+42,sofrimento intenso,revivencia,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+43,emocoes positivas ausentes,lembranca recorrente,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+44,surtos de raiva,pesadelos,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+45,reatividade emocional,amnesia dissociativa,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+46,medo,hipervigilancia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+47,tristeza,dificuldade de concentracao,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+48,raiva,revivencia,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+49,culpa,lembranca recorrente,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+50,vergonha,pesadelos,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+51,sofrimento prolongado,amnesia dissociativa,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+52,sofrimento intenso,hipervigilancia,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+53,emocoes positivas ausentes,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+54,surtos de raiva,revivencia,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+55,reatividade emocional,lembranca recorrente,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+56,medo,pesadelos,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+57,tristeza,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+58,raiva,hipervigilancia,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+59,culpa,dificuldade de concentracao,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+60,vergonha,revivencia,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+61,sofrimento prolongado,lembranca recorrente,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+62,sofrimento intenso,pesadelos,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+63,emocoes positivas ausentes,amnesia dissociativa,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+64,surtos de raiva,hipervigilancia,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+65,reatividade emocional,dificuldade de concentracao,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+66,medo,revivencia,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+67,tristeza,lembranca recorrente,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+68,raiva,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+69,culpa,amnesia dissociativa,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+70,vergonha,hipervigilancia,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+71,sofrimento prolongado,dificuldade de concentracao,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+72,sofrimento intenso,revivencia,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+73,emocoes positivas ausentes,lembranca recorrente,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+74,surtos de raiva,pesadelos,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+75,reatividade emocional,amnesia dissociativa,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+76,medo,hipervigilancia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+77,tristeza,dificuldade de concentracao,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+78,raiva,revivencia,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+79,culpa,lembranca recorrente,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+80,vergonha,pesadelos,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+81,sofrimento prolongado,amnesia dissociativa,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+82,sofrimento intenso,hipervigilancia,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+83,emocoes positivas ausentes,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+84,surtos de raiva,revivencia,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+85,reatividade emocional,lembranca recorrente,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+86,medo,pesadelos,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+87,tristeza,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+88,raiva,hipervigilancia,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+89,culpa,dificuldade de concentracao,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+90,vergonha,revivencia,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+91,sofrimento prolongado,lembranca recorrente,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+92,sofrimento intenso,pesadelos,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+93,emocoes positivas ausentes,amnesia dissociativa,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+94,surtos de raiva,hipervigilancia,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+95,reatividade emocional,dificuldade de concentracao,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+96,medo,revivencia,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+97,tristeza,lembranca recorrente,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+98,raiva,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+99,culpa,amnesia dissociativa,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+100,vergonha,hipervigilancia,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+101,sofrimento prolongado,dificuldade de concentracao,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+102,sofrimento intenso,revivencia,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+103,emocoes positivas ausentes,lembranca recorrente,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+104,surtos de raiva,pesadelos,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+105,reatividade emocional,amnesia dissociativa,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+106,medo,hipervigilancia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+107,tristeza,dificuldade de concentracao,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+108,raiva,revivencia,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+109,culpa,lembranca recorrente,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+110,vergonha,pesadelos,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+111,sofrimento prolongado,amnesia dissociativa,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+112,sofrimento intenso,hipervigilancia,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+113,emocoes positivas ausentes,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+114,surtos de raiva,revivencia,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+115,reatividade emocional,lembranca recorrente,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+116,medo,pesadelos,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+117,tristeza,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+118,raiva,hipervigilancia,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+119,culpa,dificuldade de concentracao,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+120,vergonha,revivencia,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+121,sofrimento prolongado,lembranca recorrente,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+122,sofrimento intenso,pesadelos,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+123,emocoes positivas ausentes,amnesia dissociativa,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+124,surtos de raiva,hipervigilancia,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+125,reatividade emocional,dificuldade de concentracao,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+126,medo,revivencia,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+127,tristeza,lembranca recorrente,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+128,raiva,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+129,culpa,amnesia dissociativa,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+130,vergonha,hipervigilancia,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+131,sofrimento prolongado,dificuldade de concentracao,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+132,sofrimento intenso,revivencia,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+133,emocoes positivas ausentes,lembranca recorrente,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+134,surtos de raiva,pesadelos,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+135,reatividade emocional,amnesia dissociativa,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+136,medo,hipervigilancia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+137,tristeza,dificuldade de concentracao,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+138,raiva,revivencia,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+139,culpa,lembranca recorrente,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+140,vergonha,pesadelos,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+141,sofrimento prolongado,amnesia dissociativa,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+142,sofrimento intenso,hipervigilancia,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+143,emocoes positivas ausentes,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+144,surtos de raiva,revivencia,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+145,reatividade emocional,lembranca recorrente,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+146,medo,pesadelos,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+147,tristeza,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+148,raiva,hipervigilancia,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+149,culpa,dificuldade de concentracao,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+150,vergonha,revivencia,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+151,sofrimento prolongado,lembranca recorrente,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+152,sofrimento intenso,pesadelos,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+153,emocoes positivas ausentes,amnesia dissociativa,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+154,surtos de raiva,hipervigilancia,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+155,reatividade emocional,dificuldade de concentracao,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+156,medo,revivencia,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+157,tristeza,lembranca recorrente,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+158,raiva,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+159,culpa,amnesia dissociativa,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+160,vergonha,hipervigilancia,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+161,sofrimento prolongado,dificuldade de concentracao,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+162,sofrimento intenso,revivencia,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+163,emocoes positivas ausentes,lembranca recorrente,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+164,surtos de raiva,pesadelos,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+165,reatividade emocional,amnesia dissociativa,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+166,medo,hipervigilancia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+167,tristeza,dificuldade de concentracao,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+168,raiva,revivencia,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+169,culpa,lembranca recorrente,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+170,vergonha,pesadelos,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+171,sofrimento prolongado,amnesia dissociativa,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+172,sofrimento intenso,hipervigilancia,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+173,emocoes positivas ausentes,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+174,surtos de raiva,revivencia,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+175,reatividade emocional,lembranca recorrente,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+176,medo,pesadelos,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+177,tristeza,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+178,raiva,hipervigilancia,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+179,culpa,dificuldade de concentracao,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+180,vergonha,revivencia,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+181,sofrimento prolongado,lembranca recorrente,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+182,sofrimento intenso,pesadelos,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+183,emocoes positivas ausentes,amnesia dissociativa,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+184,surtos de raiva,hipervigilancia,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+185,reatividade emocional,dificuldade de concentracao,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+186,medo,revivencia,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+187,tristeza,lembranca recorrente,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+188,raiva,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+189,culpa,amnesia dissociativa,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+190,vergonha,hipervigilancia,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+191,sofrimento prolongado,dificuldade de concentracao,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+192,sofrimento intenso,revivencia,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+193,emocoes positivas ausentes,lembranca recorrente,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+194,surtos de raiva,pesadelos,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+195,reatividade emocional,amnesia dissociativa,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+196,medo,hipervigilancia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+197,tristeza,dificuldade de concentracao,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+198,raiva,revivencia,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+199,culpa,lembranca recorrente,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+200,vergonha,pesadelos,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+201,sofrimento prolongado,amnesia dissociativa,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+202,sofrimento intenso,hipervigilancia,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+203,emocoes positivas ausentes,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+204,surtos de raiva,revivencia,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+205,reatividade emocional,lembranca recorrente,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+206,medo,pesadelos,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+207,tristeza,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+208,raiva,hipervigilancia,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+209,culpa,dificuldade de concentracao,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+210,vergonha,revivencia,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+211,sofrimento prolongado,lembranca recorrente,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+212,sofrimento intenso,pesadelos,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+213,emocoes positivas ausentes,amnesia dissociativa,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+214,surtos de raiva,hipervigilancia,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+215,reatividade emocional,dificuldade de concentracao,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+216,medo,revivencia,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+217,tristeza,lembranca recorrente,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+218,raiva,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+219,culpa,amnesia dissociativa,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+220,vergonha,hipervigilancia,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+221,sofrimento prolongado,dificuldade de concentracao,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+222,sofrimento intenso,revivencia,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+223,emocoes positivas ausentes,lembranca recorrente,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+224,surtos de raiva,pesadelos,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+225,reatividade emocional,amnesia dissociativa,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+226,medo,hipervigilancia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+227,tristeza,dificuldade de concentracao,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+228,raiva,revivencia,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+229,culpa,lembranca recorrente,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+230,vergonha,pesadelos,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+231,sofrimento prolongado,amnesia dissociativa,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+232,sofrimento intenso,hipervigilancia,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+233,emocoes positivas ausentes,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+234,surtos de raiva,revivencia,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+235,reatividade emocional,lembranca recorrente,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+236,medo,pesadelos,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+237,tristeza,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+238,raiva,hipervigilancia,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+239,culpa,dificuldade de concentracao,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+240,vergonha,revivencia,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+241,sofrimento prolongado,lembranca recorrente,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+242,sofrimento intenso,pesadelos,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+243,emocoes positivas ausentes,amnesia dissociativa,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+244,surtos de raiva,hipervigilancia,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+245,reatividade emocional,dificuldade de concentracao,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+246,medo,revivencia,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+247,tristeza,lembranca recorrente,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+248,raiva,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+249,culpa,amnesia dissociativa,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+250,vergonha,hipervigilancia,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+251,sofrimento prolongado,dificuldade de concentracao,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+252,sofrimento intenso,revivencia,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+253,emocoes positivas ausentes,lembranca recorrente,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+254,surtos de raiva,pesadelos,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+255,reatividade emocional,amnesia dissociativa,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+256,medo,hipervigilancia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+257,tristeza,dificuldade de concentracao,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+258,raiva,revivencia,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+259,culpa,lembranca recorrente,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+260,vergonha,pesadelos,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+261,sofrimento prolongado,amnesia dissociativa,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+262,sofrimento intenso,hipervigilancia,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+263,emocoes positivas ausentes,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+264,surtos de raiva,revivencia,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+265,reatividade emocional,lembranca recorrente,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+266,medo,pesadelos,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+267,tristeza,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+268,raiva,hipervigilancia,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+269,culpa,dificuldade de concentracao,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+270,vergonha,revivencia,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+271,sofrimento prolongado,lembranca recorrente,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+272,sofrimento intenso,pesadelos,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+273,emocoes positivas ausentes,amnesia dissociativa,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+274,surtos de raiva,hipervigilancia,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+275,reatividade emocional,dificuldade de concentracao,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+276,medo,revivencia,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+277,tristeza,lembranca recorrente,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+278,raiva,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+279,culpa,amnesia dissociativa,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+280,vergonha,hipervigilancia,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+281,sofrimento prolongado,dificuldade de concentracao,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+282,sofrimento intenso,revivencia,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+283,emocoes positivas ausentes,lembranca recorrente,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+284,surtos de raiva,pesadelos,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+285,reatividade emocional,amnesia dissociativa,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+286,medo,hipervigilancia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+287,tristeza,dificuldade de concentracao,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+288,raiva,revivencia,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+289,culpa,lembranca recorrente,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+290,vergonha,pesadelos,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+291,sofrimento prolongado,amnesia dissociativa,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+292,sofrimento intenso,hipervigilancia,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+293,emocoes positivas ausentes,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+294,surtos de raiva,revivencia,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+295,reatividade emocional,lembranca recorrente,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+296,medo,pesadelos,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+297,tristeza,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+298,raiva,hipervigilancia,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+299,culpa,dificuldade de concentracao,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+300,vergonha,revivencia,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+301,sofrimento prolongado,lembranca recorrente,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+302,sofrimento intenso,pesadelos,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+303,emocoes positivas ausentes,amnesia dissociativa,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+304,surtos de raiva,hipervigilancia,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+305,reatividade emocional,dificuldade de concentracao,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+306,medo,revivencia,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+307,tristeza,lembranca recorrente,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+308,raiva,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+309,culpa,amnesia dissociativa,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+310,vergonha,hipervigilancia,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+311,sofrimento prolongado,dificuldade de concentracao,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+312,sofrimento intenso,revivencia,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+313,emocoes positivas ausentes,lembranca recorrente,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+314,surtos de raiva,pesadelos,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+315,reatividade emocional,amnesia dissociativa,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+316,medo,hipervigilancia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+317,tristeza,dificuldade de concentracao,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+318,raiva,revivencia,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+319,culpa,lembranca recorrente,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+320,vergonha,pesadelos,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+321,sofrimento prolongado,amnesia dissociativa,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+322,sofrimento intenso,hipervigilancia,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+323,emocoes positivas ausentes,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+324,surtos de raiva,revivencia,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+325,reatividade emocional,lembranca recorrente,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+326,medo,pesadelos,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+327,tristeza,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+328,raiva,hipervigilancia,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+329,culpa,dificuldade de concentracao,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+330,vergonha,revivencia,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+331,sofrimento prolongado,lembranca recorrente,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+332,sofrimento intenso,pesadelos,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+333,emocoes positivas ausentes,amnesia dissociativa,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+334,surtos de raiva,hipervigilancia,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+335,reatividade emocional,dificuldade de concentracao,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+336,medo,revivencia,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+337,tristeza,lembranca recorrente,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+338,raiva,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+339,culpa,amnesia dissociativa,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+340,vergonha,hipervigilancia,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+341,sofrimento prolongado,dificuldade de concentracao,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+342,sofrimento intenso,revivencia,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+343,emocoes positivas ausentes,lembranca recorrente,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+344,surtos de raiva,pesadelos,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+345,reatividade emocional,amnesia dissociativa,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+346,medo,hipervigilancia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+347,tristeza,dificuldade de concentracao,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+348,raiva,revivencia,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+349,culpa,lembranca recorrente,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+350,vergonha,pesadelos,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+351,sofrimento prolongado,amnesia dissociativa,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+352,sofrimento intenso,hipervigilancia,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+353,emocoes positivas ausentes,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+354,surtos de raiva,revivencia,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+355,reatividade emocional,lembranca recorrente,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+356,medo,pesadelos,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+357,tristeza,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+358,raiva,hipervigilancia,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+359,culpa,dificuldade de concentracao,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+360,vergonha,revivencia,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+361,sofrimento prolongado,lembranca recorrente,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+362,sofrimento intenso,pesadelos,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+363,emocoes positivas ausentes,amnesia dissociativa,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+364,surtos de raiva,hipervigilancia,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+365,reatividade emocional,dificuldade de concentracao,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+366,medo,revivencia,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+367,tristeza,lembranca recorrente,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+368,raiva,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+369,culpa,amnesia dissociativa,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+370,vergonha,hipervigilancia,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+371,sofrimento prolongado,dificuldade de concentracao,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+372,sofrimento intenso,revivencia,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+373,emocoes positivas ausentes,lembranca recorrente,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+374,surtos de raiva,pesadelos,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+375,reatividade emocional,amnesia dissociativa,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+376,medo,hipervigilancia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+377,tristeza,dificuldade de concentracao,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+378,raiva,revivencia,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+379,culpa,lembranca recorrente,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+380,vergonha,pesadelos,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+381,sofrimento prolongado,amnesia dissociativa,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+382,sofrimento intenso,hipervigilancia,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+383,emocoes positivas ausentes,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+384,surtos de raiva,revivencia,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+385,reatividade emocional,lembranca recorrente,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+386,medo,pesadelos,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+387,tristeza,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+388,raiva,hipervigilancia,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+389,culpa,dificuldade de concentracao,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+390,vergonha,revivencia,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+391,sofrimento prolongado,lembranca recorrente,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+392,sofrimento intenso,pesadelos,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+393,emocoes positivas ausentes,amnesia dissociativa,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+394,surtos de raiva,hipervigilancia,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+395,reatividade emocional,dificuldade de concentracao,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+396,medo,revivencia,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+397,tristeza,lembranca recorrente,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+398,raiva,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+399,culpa,amnesia dissociativa,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+400,vergonha,hipervigilancia,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+401,sofrimento prolongado,dificuldade de concentracao,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+402,sofrimento intenso,revivencia,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+403,emocoes positivas ausentes,lembranca recorrente,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+404,surtos de raiva,pesadelos,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+405,reatividade emocional,amnesia dissociativa,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+406,medo,hipervigilancia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+407,tristeza,dificuldade de concentracao,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+408,raiva,revivencia,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+409,culpa,lembranca recorrente,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+410,vergonha,pesadelos,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+411,sofrimento prolongado,amnesia dissociativa,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+412,sofrimento intenso,hipervigilancia,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+413,emocoes positivas ausentes,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+414,surtos de raiva,revivencia,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+415,reatividade emocional,lembranca recorrente,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+416,medo,pesadelos,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+417,tristeza,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+418,raiva,hipervigilancia,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+419,culpa,dificuldade de concentracao,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+420,vergonha,revivencia,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+421,sofrimento prolongado,lembranca recorrente,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+422,sofrimento intenso,pesadelos,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+423,emocoes positivas ausentes,amnesia dissociativa,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+424,surtos de raiva,hipervigilancia,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+425,reatividade emocional,dificuldade de concentracao,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+426,medo,revivencia,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+427,tristeza,lembranca recorrente,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+428,raiva,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+429,culpa,amnesia dissociativa,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+430,vergonha,hipervigilancia,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+431,sofrimento prolongado,dificuldade de concentracao,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+432,sofrimento intenso,revivencia,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+433,emocoes positivas ausentes,lembranca recorrente,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+434,surtos de raiva,pesadelos,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+435,reatividade emocional,amnesia dissociativa,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+436,medo,hipervigilancia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+437,tristeza,dificuldade de concentracao,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+438,raiva,revivencia,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+439,culpa,lembranca recorrente,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+440,vergonha,pesadelos,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+441,sofrimento prolongado,amnesia dissociativa,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+442,sofrimento intenso,hipervigilancia,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+443,emocoes positivas ausentes,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+444,surtos de raiva,revivencia,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+445,reatividade emocional,lembranca recorrente,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+446,medo,pesadelos,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+447,tristeza,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+448,raiva,hipervigilancia,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+449,culpa,dificuldade de concentracao,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+450,vergonha,revivencia,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+451,sofrimento prolongado,lembranca recorrente,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+452,sofrimento intenso,pesadelos,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+453,emocoes positivas ausentes,amnesia dissociativa,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+454,surtos de raiva,hipervigilancia,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+455,reatividade emocional,dificuldade de concentracao,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+456,medo,revivencia,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+457,tristeza,lembranca recorrente,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+458,raiva,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+459,culpa,amnesia dissociativa,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+460,vergonha,hipervigilancia,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+461,sofrimento prolongado,dificuldade de concentracao,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+462,sofrimento intenso,revivencia,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+463,emocoes positivas ausentes,lembranca recorrente,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+464,surtos de raiva,pesadelos,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+465,reatividade emocional,amnesia dissociativa,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+466,medo,hipervigilancia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+467,tristeza,dificuldade de concentracao,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+468,raiva,revivencia,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+469,culpa,lembranca recorrente,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+470,vergonha,pesadelos,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+471,sofrimento prolongado,amnesia dissociativa,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+472,sofrimento intenso,hipervigilancia,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+473,emocoes positivas ausentes,dificuldade de concentracao,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+474,surtos de raiva,revivencia,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+475,reatividade emocional,lembranca recorrente,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+476,medo,pesadelos,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+477,tristeza,amnesia dissociativa,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+478,raiva,hipervigilancia,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+479,culpa,dificuldade de concentracao,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+480,vergonha,revivencia,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+481,sofrimento prolongado,lembranca recorrente,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+482,sofrimento intenso,pesadelos,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+483,emocoes positivas ausentes,amnesia dissociativa,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+484,surtos de raiva,hipervigilancia,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+485,reatividade emocional,dificuldade de concentracao,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+486,medo,revivencia,evitativo,desrealizacao,reatividade fisiologica,neuroticismo,< 1 mes,transtorno de estresse agudo
+487,tristeza,lembranca recorrente,irritadico,flashbacks,perturbacao do sono,evento traumatico,< 1 mes,transtorno de estresse agudo
+488,raiva,pesadelos,agressivo,despersonalizacao,resposta de sobressalto exagerada,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+489,culpa,amnesia dissociativa,impulsivo,desrealizacao,ataques de panico,neuroticismo,< 1 mes,transtorno de estresse agudo
+490,vergonha,hipervigilancia,imprudente,flashbacks,sintomas pos-concussivos,evento traumatico,< 1 mes,transtorno de estresse agudo
+491,sofrimento prolongado,dificuldade de concentracao,evitativo,despersonalizacao,reatividade fisiologica,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+492,sofrimento intenso,revivencia,irritadico,desrealizacao,perturbacao do sono,neuroticismo,< 1 mes,transtorno de estresse agudo
+493,emocoes positivas ausentes,lembranca recorrente,agressivo,flashbacks,resposta de sobressalto exagerada,evento traumatico,< 1 mes,transtorno de estresse agudo
+494,surtos de raiva,pesadelos,impulsivo,despersonalizacao,ataques de panico,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+495,reatividade emocional,amnesia dissociativa,imprudente,desrealizacao,sintomas pos-concussivos,neuroticismo,< 1 mes,transtorno de estresse agudo
+496,medo,hipervigilancia,evitativo,flashbacks,reatividade fisiologica,evento traumatico,< 1 mes,transtorno de estresse agudo
+497,tristeza,dificuldade de concentracao,irritadico,despersonalizacao,perturbacao do sono,transtorno mental anterior,< 1 mes,transtorno de estresse agudo
+498,raiva,revivencia,agressivo,desrealizacao,resposta de sobressalto exagerada,neuroticismo,< 1 mes,transtorno de estresse agudo
+499,culpa,lembranca recorrente,impulsivo,flashbacks,ataques de panico,evento traumatico,< 1 mes,transtorno de estresse agudo
+500,vergonha,pesadelos,imprudente,despersonalizacao,sintomas pos-concussivos,transtorno mental anterior,< 1 mes,transtorno de estresse agudo

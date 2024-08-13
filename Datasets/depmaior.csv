@@ -1,0 +1,501 @@
+VARIACAO,HUMOR,COGNICAO,COMPORTAMENTO,PERCEPCAO,FISIOLOGICO,RISCO,DURACAO,RESULTADO
+1,humor deprimido,ruminacao,suicida,nao especificado,alteracoes de peso significativas,evento traumatico,> 2 semanas,transtorno depressivo maior
+2,disforia,recordacao intrusiva,tentativa de suicidio,nao especificado,alteracoes no apetite,perda significativa,> 2 semanas,transtorno depressivo maior
+3,anedonia,perda de interesse,retraimento social,nao especificado,insonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+4,tristeza,dificuldade para pensar,choro,nao especificado,hipersonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+5,culpa delirante,dificuldade de concentracao,suicida,nao especificado,perturbacoes do sono,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+6,sentimentos de inutilidade,indecisao,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+7,desesperanca,pensamentos recorrentes de morte,retraimento social,nao especificado,fadiga persistente,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+8,angustia generalizada,ideacao suicida,choro,nao especificado,perda de energia,evento traumatico,> 2 semanas,transtorno depressivo maior
+9,autoaversao,plano suicida,suicida,nao especificado,sintomas somaticos,perda significativa,> 2 semanas,transtorno depressivo maior
+10,sentimentos de desvalia,problemas de memoria,tentativa de suicidio,nao especificado,catatonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+11,sofrimento intenso,preocupacao,retraimento social,nao especificado,alteracoes de peso significativas,herdabilidade,> 2 semanas,transtorno depressivo maior
+12,melancolia,ruminacao,choro,nao especificado,alteracoes no apetite,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+13,humor deprimido,recordacao intrusiva,suicida,nao especificado,insonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+14,disforia,perda de interesse,tentativa de suicidio,nao especificado,hipersonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+15,anedonia,dificuldade para pensar,retraimento social,nao especificado,perturbacoes do sono,evento traumatico,> 2 semanas,transtorno depressivo maior
+16,tristeza,dificuldade de concentracao,choro,nao especificado,perturbacoes psicomotoras,perda significativa,> 2 semanas,transtorno depressivo maior
+17,culpa delirante,indecisao,suicida,nao especificado,fadiga persistente,neuroticismo,> 2 semanas,transtorno depressivo maior
+18,sentimentos de inutilidade,pensamentos recorrentes de morte,tentativa de suicidio,nao especificado,perda de energia,herdabilidade,> 2 semanas,transtorno depressivo maior
+19,desesperanca,ideacao suicida,retraimento social,nao especificado,sintomas somaticos,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+20,angustia generalizada,plano suicida,choro,nao especificado,catatonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+21,autoaversao,problemas de memoria,suicida,nao especificado,alteracoes de peso significativas,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+22,sentimentos de desvalia,preocupacao,tentativa de suicidio,nao especificado,alteracoes no apetite,evento traumatico,> 2 semanas,transtorno depressivo maior
+23,sofrimento intenso,ruminacao,retraimento social,nao especificado,insonia,perda significativa,> 2 semanas,transtorno depressivo maior
+24,melancolia,recordacao intrusiva,choro,nao especificado,hipersonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+25,humor deprimido,perda de interesse,suicida,nao especificado,perturbacoes do sono,herdabilidade,> 2 semanas,transtorno depressivo maior
+26,disforia,dificuldade para pensar,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+27,anedonia,dificuldade de concentracao,retraimento social,nao especificado,fadiga persistente,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+28,tristeza,indecisao,choro,nao especificado,perda de energia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+29,culpa delirante,pensamentos recorrentes de morte,suicida,nao especificado,sintomas somaticos,evento traumatico,> 2 semanas,transtorno depressivo maior
+30,sentimentos de inutilidade,ideacao suicida,tentativa de suicidio,nao especificado,catatonia,perda significativa,> 2 semanas,transtorno depressivo maior
+31,desesperanca,plano suicida,retraimento social,nao especificado,alteracoes de peso significativas,neuroticismo,> 2 semanas,transtorno depressivo maior
+32,angustia generalizada,problemas de memoria,choro,nao especificado,alteracoes no apetite,herdabilidade,> 2 semanas,transtorno depressivo maior
+33,autoaversao,preocupacao,suicida,nao especificado,insonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+34,sentimentos de desvalia,ruminacao,tentativa de suicidio,nao especificado,hipersonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+35,sofrimento intenso,recordacao intrusiva,retraimento social,nao especificado,perturbacoes do sono,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+36,melancolia,perda de interesse,choro,nao especificado,perturbacoes psicomotoras,evento traumatico,> 2 semanas,transtorno depressivo maior
+37,humor deprimido,dificuldade para pensar,suicida,nao especificado,fadiga persistente,perda significativa,> 2 semanas,transtorno depressivo maior
+38,disforia,dificuldade de concentracao,tentativa de suicidio,nao especificado,perda de energia,neuroticismo,> 2 semanas,transtorno depressivo maior
+39,anedonia,indecisao,retraimento social,nao especificado,sintomas somaticos,herdabilidade,> 2 semanas,transtorno depressivo maior
+40,tristeza,pensamentos recorrentes de morte,choro,nao especificado,catatonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+41,culpa delirante,ideacao suicida,suicida,nao especificado,alteracoes de peso significativas,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+42,sentimentos de inutilidade,plano suicida,tentativa de suicidio,nao especificado,alteracoes no apetite,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+43,desesperanca,problemas de memoria,retraimento social,nao especificado,insonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+44,angustia generalizada,preocupacao,choro,nao especificado,hipersonia,perda significativa,> 2 semanas,transtorno depressivo maior
+45,autoaversao,ruminacao,suicida,nao especificado,perturbacoes do sono,neuroticismo,> 2 semanas,transtorno depressivo maior
+46,sentimentos de desvalia,recordacao intrusiva,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,herdabilidade,> 2 semanas,transtorno depressivo maior
+47,sofrimento intenso,perda de interesse,retraimento social,nao especificado,fadiga persistente,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+48,melancolia,dificuldade para pensar,choro,nao especificado,perda de energia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+49,humor deprimido,dificuldade de concentracao,suicida,nao especificado,sintomas somaticos,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+50,disforia,indecisao,tentativa de suicidio,nao especificado,catatonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+51,anedonia,pensamentos recorrentes de morte,retraimento social,nao especificado,alteracoes de peso significativas,perda significativa,> 2 semanas,transtorno depressivo maior
+52,tristeza,ideacao suicida,choro,nao especificado,alteracoes no apetite,neuroticismo,> 2 semanas,transtorno depressivo maior
+53,culpa delirante,plano suicida,suicida,nao especificado,insonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+54,sentimentos de inutilidade,problemas de memoria,tentativa de suicidio,nao especificado,hipersonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+55,desesperanca,preocupacao,retraimento social,nao especificado,perturbacoes do sono,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+56,angustia generalizada,ruminacao,choro,nao especificado,perturbacoes psicomotoras,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+57,autoaversao,recordacao intrusiva,suicida,nao especificado,fadiga persistente,evento traumatico,> 2 semanas,transtorno depressivo maior
+58,sentimentos de desvalia,perda de interesse,tentativa de suicidio,nao especificado,perda de energia,perda significativa,> 2 semanas,transtorno depressivo maior
+59,sofrimento intenso,dificuldade para pensar,retraimento social,nao especificado,sintomas somaticos,neuroticismo,> 2 semanas,transtorno depressivo maior
+60,melancolia,dificuldade de concentracao,choro,nao especificado,catatonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+61,humor deprimido,indecisao,suicida,nao especificado,alteracoes de peso significativas,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+62,disforia,pensamentos recorrentes de morte,tentativa de suicidio,nao especificado,alteracoes no apetite,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+63,anedonia,ideacao suicida,retraimento social,nao especificado,insonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+64,tristeza,plano suicida,choro,nao especificado,hipersonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+65,culpa delirante,problemas de memoria,suicida,nao especificado,perturbacoes do sono,perda significativa,> 2 semanas,transtorno depressivo maior
+66,sentimentos de inutilidade,preocupacao,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,neuroticismo,> 2 semanas,transtorno depressivo maior
+67,desesperanca,ruminacao,retraimento social,nao especificado,fadiga persistente,herdabilidade,> 2 semanas,transtorno depressivo maior
+68,angustia generalizada,recordacao intrusiva,choro,nao especificado,perda de energia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+69,autoaversao,perda de interesse,suicida,nao especificado,sintomas somaticos,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+70,sentimentos de desvalia,dificuldade para pensar,tentativa de suicidio,nao especificado,catatonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+71,sofrimento intenso,dificuldade de concentracao,retraimento social,nao especificado,alteracoes de peso significativas,evento traumatico,> 2 semanas,transtorno depressivo maior
+72,melancolia,indecisao,choro,nao especificado,alteracoes no apetite,perda significativa,> 2 semanas,transtorno depressivo maior
+73,humor deprimido,pensamentos recorrentes de morte,suicida,nao especificado,insonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+74,disforia,ideacao suicida,tentativa de suicidio,nao especificado,hipersonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+75,anedonia,plano suicida,retraimento social,nao especificado,perturbacoes do sono,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+76,tristeza,problemas de memoria,choro,nao especificado,perturbacoes psicomotoras,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+77,culpa delirante,preocupacao,suicida,nao especificado,fadiga persistente,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+78,sentimentos de inutilidade,ruminacao,tentativa de suicidio,nao especificado,perda de energia,evento traumatico,> 2 semanas,transtorno depressivo maior
+79,desesperanca,recordacao intrusiva,retraimento social,nao especificado,sintomas somaticos,perda significativa,> 2 semanas,transtorno depressivo maior
+80,angustia generalizada,perda de interesse,choro,nao especificado,catatonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+81,autoaversao,dificuldade para pensar,suicida,nao especificado,alteracoes de peso significativas,herdabilidade,> 2 semanas,transtorno depressivo maior
+82,sentimentos de desvalia,dificuldade de concentracao,tentativa de suicidio,nao especificado,alteracoes no apetite,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+83,sofrimento intenso,indecisao,retraimento social,nao especificado,insonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+84,melancolia,pensamentos recorrentes de morte,choro,nao especificado,hipersonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+85,humor deprimido,ideacao suicida,suicida,nao especificado,perturbacoes do sono,evento traumatico,> 2 semanas,transtorno depressivo maior
+86,disforia,plano suicida,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,perda significativa,> 2 semanas,transtorno depressivo maior
+87,anedonia,problemas de memoria,retraimento social,nao especificado,fadiga persistente,neuroticismo,> 2 semanas,transtorno depressivo maior
+88,tristeza,preocupacao,choro,nao especificado,perda de energia,herdabilidade,> 2 semanas,transtorno depressivo maior
+89,culpa delirante,ruminacao,suicida,nao especificado,sintomas somaticos,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+90,sentimentos de inutilidade,recordacao intrusiva,tentativa de suicidio,nao especificado,catatonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+91,desesperanca,perda de interesse,retraimento social,nao especificado,alteracoes de peso significativas,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+92,angustia generalizada,dificuldade para pensar,choro,nao especificado,alteracoes no apetite,evento traumatico,> 2 semanas,transtorno depressivo maior
+93,autoaversao,dificuldade de concentracao,suicida,nao especificado,insonia,perda significativa,> 2 semanas,transtorno depressivo maior
+94,sentimentos de desvalia,indecisao,tentativa de suicidio,nao especificado,hipersonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+95,sofrimento intenso,pensamentos recorrentes de morte,retraimento social,nao especificado,perturbacoes do sono,herdabilidade,> 2 semanas,transtorno depressivo maior
+96,melancolia,ideacao suicida,choro,nao especificado,perturbacoes psicomotoras,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+97,humor deprimido,plano suicida,suicida,nao especificado,fadiga persistente,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+98,disforia,problemas de memoria,tentativa de suicidio,nao especificado,perda de energia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+99,anedonia,preocupacao,retraimento social,nao especificado,sintomas somaticos,evento traumatico,> 2 semanas,transtorno depressivo maior
+100,tristeza,ruminacao,choro,nao especificado,catatonia,perda significativa,> 2 semanas,transtorno depressivo maior
+101,culpa delirante,recordacao intrusiva,suicida,nao especificado,alteracoes de peso significativas,neuroticismo,> 2 semanas,transtorno depressivo maior
+102,sentimentos de inutilidade,perda de interesse,tentativa de suicidio,nao especificado,alteracoes no apetite,herdabilidade,> 2 semanas,transtorno depressivo maior
+103,desesperanca,dificuldade para pensar,retraimento social,nao especificado,insonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+104,angustia generalizada,dificuldade de concentracao,choro,nao especificado,hipersonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+105,autoaversao,indecisao,suicida,nao especificado,perturbacoes do sono,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+106,sentimentos de desvalia,pensamentos recorrentes de morte,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,evento traumatico,> 2 semanas,transtorno depressivo maior
+107,sofrimento intenso,ideacao suicida,retraimento social,nao especificado,fadiga persistente,perda significativa,> 2 semanas,transtorno depressivo maior
+108,melancolia,plano suicida,choro,nao especificado,perda de energia,neuroticismo,> 2 semanas,transtorno depressivo maior
+109,humor deprimido,problemas de memoria,suicida,nao especificado,sintomas somaticos,herdabilidade,> 2 semanas,transtorno depressivo maior
+110,disforia,preocupacao,tentativa de suicidio,nao especificado,catatonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+111,anedonia,ruminacao,retraimento social,nao especificado,alteracoes de peso significativas,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+112,tristeza,recordacao intrusiva,choro,nao especificado,alteracoes no apetite,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+113,culpa delirante,perda de interesse,suicida,nao especificado,insonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+114,sentimentos de inutilidade,dificuldade para pensar,tentativa de suicidio,nao especificado,hipersonia,perda significativa,> 2 semanas,transtorno depressivo maior
+115,desesperanca,dificuldade de concentracao,retraimento social,nao especificado,perturbacoes do sono,neuroticismo,> 2 semanas,transtorno depressivo maior
+116,angustia generalizada,indecisao,choro,nao especificado,perturbacoes psicomotoras,herdabilidade,> 2 semanas,transtorno depressivo maior
+117,autoaversao,pensamentos recorrentes de morte,suicida,nao especificado,fadiga persistente,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+118,sentimentos de desvalia,ideacao suicida,tentativa de suicidio,nao especificado,perda de energia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+119,sofrimento intenso,plano suicida,retraimento social,nao especificado,sintomas somaticos,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+120,melancolia,problemas de memoria,choro,nao especificado,catatonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+121,humor deprimido,preocupacao,suicida,nao especificado,alteracoes de peso significativas,perda significativa,> 2 semanas,transtorno depressivo maior
+122,disforia,ruminacao,tentativa de suicidio,nao especificado,alteracoes no apetite,neuroticismo,> 2 semanas,transtorno depressivo maior
+123,anedonia,recordacao intrusiva,retraimento social,nao especificado,insonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+124,tristeza,perda de interesse,choro,nao especificado,hipersonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+125,culpa delirante,dificuldade para pensar,suicida,nao especificado,perturbacoes do sono,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+126,sentimentos de inutilidade,dificuldade de concentracao,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+127,desesperanca,indecisao,retraimento social,nao especificado,fadiga persistente,evento traumatico,> 2 semanas,transtorno depressivo maior
+128,angustia generalizada,pensamentos recorrentes de morte,choro,nao especificado,perda de energia,perda significativa,> 2 semanas,transtorno depressivo maior
+129,autoaversao,ideacao suicida,suicida,nao especificado,sintomas somaticos,neuroticismo,> 2 semanas,transtorno depressivo maior
+130,sentimentos de desvalia,plano suicida,tentativa de suicidio,nao especificado,catatonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+131,sofrimento intenso,problemas de memoria,retraimento social,nao especificado,alteracoes de peso significativas,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+132,melancolia,preocupacao,choro,nao especificado,alteracoes no apetite,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+133,humor deprimido,ruminacao,suicida,nao especificado,insonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+134,disforia,recordacao intrusiva,tentativa de suicidio,nao especificado,hipersonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+135,anedonia,perda de interesse,retraimento social,nao especificado,perturbacoes do sono,perda significativa,> 2 semanas,transtorno depressivo maior
+136,tristeza,dificuldade para pensar,choro,nao especificado,perturbacoes psicomotoras,neuroticismo,> 2 semanas,transtorno depressivo maior
+137,culpa delirante,dificuldade de concentracao,suicida,nao especificado,fadiga persistente,herdabilidade,> 2 semanas,transtorno depressivo maior
+138,sentimentos de inutilidade,indecisao,tentativa de suicidio,nao especificado,perda de energia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+139,desesperanca,pensamentos recorrentes de morte,retraimento social,nao especificado,sintomas somaticos,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+140,angustia generalizada,ideacao suicida,choro,nao especificado,catatonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+141,autoaversao,plano suicida,suicida,nao especificado,alteracoes de peso significativas,evento traumatico,> 2 semanas,transtorno depressivo maior
+142,sentimentos de desvalia,problemas de memoria,tentativa de suicidio,nao especificado,alteracoes no apetite,perda significativa,> 2 semanas,transtorno depressivo maior
+143,sofrimento intenso,preocupacao,retraimento social,nao especificado,insonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+144,melancolia,ruminacao,choro,nao especificado,hipersonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+145,humor deprimido,recordacao intrusiva,suicida,nao especificado,perturbacoes do sono,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+146,disforia,perda de interesse,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+147,anedonia,dificuldade para pensar,retraimento social,nao especificado,fadiga persistente,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+148,tristeza,dificuldade de concentracao,choro,nao especificado,perda de energia,evento traumatico,> 2 semanas,transtorno depressivo maior
+149,culpa delirante,indecisao,suicida,nao especificado,sintomas somaticos,perda significativa,> 2 semanas,transtorno depressivo maior
+150,sentimentos de inutilidade,pensamentos recorrentes de morte,tentativa de suicidio,nao especificado,catatonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+151,desesperanca,ideacao suicida,retraimento social,nao especificado,alteracoes de peso significativas,herdabilidade,> 2 semanas,transtorno depressivo maior
+152,angustia generalizada,plano suicida,choro,nao especificado,alteracoes no apetite,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+153,autoaversao,problemas de memoria,suicida,nao especificado,insonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+154,sentimentos de desvalia,preocupacao,tentativa de suicidio,nao especificado,hipersonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+155,sofrimento intenso,ruminacao,retraimento social,nao especificado,perturbacoes do sono,evento traumatico,> 2 semanas,transtorno depressivo maior
+156,melancolia,recordacao intrusiva,choro,nao especificado,perturbacoes psicomotoras,perda significativa,> 2 semanas,transtorno depressivo maior
+157,humor deprimido,perda de interesse,suicida,nao especificado,fadiga persistente,neuroticismo,> 2 semanas,transtorno depressivo maior
+158,disforia,dificuldade para pensar,tentativa de suicidio,nao especificado,perda de energia,herdabilidade,> 2 semanas,transtorno depressivo maior
+159,anedonia,dificuldade de concentracao,retraimento social,nao especificado,sintomas somaticos,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+160,tristeza,indecisao,choro,nao especificado,catatonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+161,culpa delirante,pensamentos recorrentes de morte,suicida,nao especificado,alteracoes de peso significativas,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+162,sentimentos de inutilidade,ideacao suicida,tentativa de suicidio,nao especificado,alteracoes no apetite,evento traumatico,> 2 semanas,transtorno depressivo maior
+163,desesperanca,plano suicida,retraimento social,nao especificado,insonia,perda significativa,> 2 semanas,transtorno depressivo maior
+164,angustia generalizada,problemas de memoria,choro,nao especificado,hipersonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+165,autoaversao,preocupacao,suicida,nao especificado,perturbacoes do sono,herdabilidade,> 2 semanas,transtorno depressivo maior
+166,sentimentos de desvalia,ruminacao,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+167,sofrimento intenso,recordacao intrusiva,retraimento social,nao especificado,fadiga persistente,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+168,melancolia,perda de interesse,choro,nao especificado,perda de energia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+169,humor deprimido,dificuldade para pensar,suicida,nao especificado,sintomas somaticos,evento traumatico,> 2 semanas,transtorno depressivo maior
+170,disforia,dificuldade de concentracao,tentativa de suicidio,nao especificado,catatonia,perda significativa,> 2 semanas,transtorno depressivo maior
+171,anedonia,indecisao,retraimento social,nao especificado,alteracoes de peso significativas,neuroticismo,> 2 semanas,transtorno depressivo maior
+172,tristeza,pensamentos recorrentes de morte,choro,nao especificado,alteracoes no apetite,herdabilidade,> 2 semanas,transtorno depressivo maior
+173,culpa delirante,ideacao suicida,suicida,nao especificado,insonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+174,sentimentos de inutilidade,plano suicida,tentativa de suicidio,nao especificado,hipersonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+175,desesperanca,problemas de memoria,retraimento social,nao especificado,perturbacoes do sono,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+176,angustia generalizada,preocupacao,choro,nao especificado,perturbacoes psicomotoras,evento traumatico,> 2 semanas,transtorno depressivo maior
+177,autoaversao,ruminacao,suicida,nao especificado,fadiga persistente,perda significativa,> 2 semanas,transtorno depressivo maior
+178,sentimentos de desvalia,recordacao intrusiva,tentativa de suicidio,nao especificado,perda de energia,neuroticismo,> 2 semanas,transtorno depressivo maior
+179,sofrimento intenso,perda de interesse,retraimento social,nao especificado,sintomas somaticos,herdabilidade,> 2 semanas,transtorno depressivo maior
+180,melancolia,dificuldade para pensar,choro,nao especificado,catatonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+181,humor deprimido,dificuldade de concentracao,suicida,nao especificado,alteracoes de peso significativas,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+182,disforia,indecisao,tentativa de suicidio,nao especificado,alteracoes no apetite,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+183,anedonia,pensamentos recorrentes de morte,retraimento social,nao especificado,insonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+184,tristeza,ideacao suicida,choro,nao especificado,hipersonia,perda significativa,> 2 semanas,transtorno depressivo maior
+185,culpa delirante,plano suicida,suicida,nao especificado,perturbacoes do sono,neuroticismo,> 2 semanas,transtorno depressivo maior
+186,sentimentos de inutilidade,problemas de memoria,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,herdabilidade,> 2 semanas,transtorno depressivo maior
+187,desesperanca,preocupacao,retraimento social,nao especificado,fadiga persistente,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+188,angustia generalizada,ruminacao,choro,nao especificado,perda de energia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+189,autoaversao,recordacao intrusiva,suicida,nao especificado,sintomas somaticos,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+190,sentimentos de desvalia,perda de interesse,tentativa de suicidio,nao especificado,catatonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+191,sofrimento intenso,dificuldade para pensar,retraimento social,nao especificado,alteracoes de peso significativas,perda significativa,> 2 semanas,transtorno depressivo maior
+192,melancolia,dificuldade de concentracao,choro,nao especificado,alteracoes no apetite,neuroticismo,> 2 semanas,transtorno depressivo maior
+193,humor deprimido,indecisao,suicida,nao especificado,insonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+194,disforia,pensamentos recorrentes de morte,tentativa de suicidio,nao especificado,hipersonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+195,anedonia,ideacao suicida,retraimento social,nao especificado,perturbacoes do sono,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+196,tristeza,plano suicida,choro,nao especificado,perturbacoes psicomotoras,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+197,culpa delirante,problemas de memoria,suicida,nao especificado,fadiga persistente,evento traumatico,> 2 semanas,transtorno depressivo maior
+198,sentimentos de inutilidade,preocupacao,tentativa de suicidio,nao especificado,perda de energia,perda significativa,> 2 semanas,transtorno depressivo maior
+199,desesperanca,ruminacao,retraimento social,nao especificado,sintomas somaticos,neuroticismo,> 2 semanas,transtorno depressivo maior
+200,angustia generalizada,recordacao intrusiva,choro,nao especificado,catatonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+201,autoaversao,perda de interesse,suicida,nao especificado,alteracoes de peso significativas,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+202,sentimentos de desvalia,dificuldade para pensar,tentativa de suicidio,nao especificado,alteracoes no apetite,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+203,sofrimento intenso,dificuldade de concentracao,retraimento social,nao especificado,insonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+204,melancolia,indecisao,choro,nao especificado,hipersonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+205,humor deprimido,pensamentos recorrentes de morte,suicida,nao especificado,perturbacoes do sono,perda significativa,> 2 semanas,transtorno depressivo maior
+206,disforia,ideacao suicida,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,neuroticismo,> 2 semanas,transtorno depressivo maior
+207,anedonia,plano suicida,retraimento social,nao especificado,fadiga persistente,herdabilidade,> 2 semanas,transtorno depressivo maior
+208,tristeza,problemas de memoria,choro,nao especificado,perda de energia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+209,culpa delirante,preocupacao,suicida,nao especificado,sintomas somaticos,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+210,sentimentos de inutilidade,ruminacao,tentativa de suicidio,nao especificado,catatonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+211,desesperanca,recordacao intrusiva,retraimento social,nao especificado,alteracoes de peso significativas,evento traumatico,> 2 semanas,transtorno depressivo maior
+212,angustia generalizada,perda de interesse,choro,nao especificado,alteracoes no apetite,perda significativa,> 2 semanas,transtorno depressivo maior
+213,autoaversao,dificuldade para pensar,suicida,nao especificado,insonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+214,sentimentos de desvalia,dificuldade de concentracao,tentativa de suicidio,nao especificado,hipersonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+215,sofrimento intenso,indecisao,retraimento social,nao especificado,perturbacoes do sono,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+216,melancolia,pensamentos recorrentes de morte,choro,nao especificado,perturbacoes psicomotoras,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+217,humor deprimido,ideacao suicida,suicida,nao especificado,fadiga persistente,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+218,disforia,plano suicida,tentativa de suicidio,nao especificado,perda de energia,evento traumatico,> 2 semanas,transtorno depressivo maior
+219,anedonia,problemas de memoria,retraimento social,nao especificado,sintomas somaticos,perda significativa,> 2 semanas,transtorno depressivo maior
+220,tristeza,preocupacao,choro,nao especificado,catatonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+221,culpa delirante,ruminacao,suicida,nao especificado,alteracoes de peso significativas,herdabilidade,> 2 semanas,transtorno depressivo maior
+222,sentimentos de inutilidade,recordacao intrusiva,tentativa de suicidio,nao especificado,alteracoes no apetite,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+223,desesperanca,perda de interesse,retraimento social,nao especificado,insonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+224,angustia generalizada,dificuldade para pensar,choro,nao especificado,hipersonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+225,autoaversao,dificuldade de concentracao,suicida,nao especificado,perturbacoes do sono,evento traumatico,> 2 semanas,transtorno depressivo maior
+226,sentimentos de desvalia,indecisao,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,perda significativa,> 2 semanas,transtorno depressivo maior
+227,sofrimento intenso,pensamentos recorrentes de morte,retraimento social,nao especificado,fadiga persistente,neuroticismo,> 2 semanas,transtorno depressivo maior
+228,melancolia,ideacao suicida,choro,nao especificado,perda de energia,herdabilidade,> 2 semanas,transtorno depressivo maior
+229,humor deprimido,plano suicida,suicida,nao especificado,sintomas somaticos,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+230,disforia,problemas de memoria,tentativa de suicidio,nao especificado,catatonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+231,anedonia,preocupacao,retraimento social,nao especificado,alteracoes de peso significativas,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+232,tristeza,ruminacao,choro,nao especificado,alteracoes no apetite,evento traumatico,> 2 semanas,transtorno depressivo maior
+233,culpa delirante,recordacao intrusiva,suicida,nao especificado,insonia,perda significativa,> 2 semanas,transtorno depressivo maior
+234,sentimentos de inutilidade,perda de interesse,tentativa de suicidio,nao especificado,hipersonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+235,desesperanca,dificuldade para pensar,retraimento social,nao especificado,perturbacoes do sono,herdabilidade,> 2 semanas,transtorno depressivo maior
+236,angustia generalizada,dificuldade de concentracao,choro,nao especificado,perturbacoes psicomotoras,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+237,autoaversao,indecisao,suicida,nao especificado,fadiga persistente,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+238,sentimentos de desvalia,pensamentos recorrentes de morte,tentativa de suicidio,nao especificado,perda de energia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+239,sofrimento intenso,ideacao suicida,retraimento social,nao especificado,sintomas somaticos,evento traumatico,> 2 semanas,transtorno depressivo maior
+240,melancolia,plano suicida,choro,nao especificado,catatonia,perda significativa,> 2 semanas,transtorno depressivo maior
+241,humor deprimido,problemas de memoria,suicida,nao especificado,alteracoes de peso significativas,neuroticismo,> 2 semanas,transtorno depressivo maior
+242,disforia,preocupacao,tentativa de suicidio,nao especificado,alteracoes no apetite,herdabilidade,> 2 semanas,transtorno depressivo maior
+243,anedonia,ruminacao,retraimento social,nao especificado,insonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+244,tristeza,recordacao intrusiva,choro,nao especificado,hipersonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+245,culpa delirante,perda de interesse,suicida,nao especificado,perturbacoes do sono,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+246,sentimentos de inutilidade,dificuldade para pensar,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,evento traumatico,> 2 semanas,transtorno depressivo maior
+247,desesperanca,dificuldade de concentracao,retraimento social,nao especificado,fadiga persistente,perda significativa,> 2 semanas,transtorno depressivo maior
+248,angustia generalizada,indecisao,choro,nao especificado,perda de energia,neuroticismo,> 2 semanas,transtorno depressivo maior
+249,autoaversao,pensamentos recorrentes de morte,suicida,nao especificado,sintomas somaticos,herdabilidade,> 2 semanas,transtorno depressivo maior
+250,sentimentos de desvalia,ideacao suicida,tentativa de suicidio,nao especificado,catatonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+251,sofrimento intenso,plano suicida,retraimento social,nao especificado,alteracoes de peso significativas,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+252,melancolia,problemas de memoria,choro,nao especificado,alteracoes no apetite,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+253,humor deprimido,preocupacao,suicida,nao especificado,insonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+254,disforia,ruminacao,tentativa de suicidio,nao especificado,hipersonia,perda significativa,> 2 semanas,transtorno depressivo maior
+255,anedonia,recordacao intrusiva,retraimento social,nao especificado,perturbacoes do sono,neuroticismo,> 2 semanas,transtorno depressivo maior
+256,tristeza,perda de interesse,choro,nao especificado,perturbacoes psicomotoras,herdabilidade,> 2 semanas,transtorno depressivo maior
+257,culpa delirante,dificuldade para pensar,suicida,nao especificado,fadiga persistente,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+258,sentimentos de inutilidade,dificuldade de concentracao,tentativa de suicidio,nao especificado,perda de energia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+259,desesperanca,indecisao,retraimento social,nao especificado,sintomas somaticos,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+260,angustia generalizada,pensamentos recorrentes de morte,choro,nao especificado,catatonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+261,autoaversao,ideacao suicida,suicida,nao especificado,alteracoes de peso significativas,perda significativa,> 2 semanas,transtorno depressivo maior
+262,sentimentos de desvalia,plano suicida,tentativa de suicidio,nao especificado,alteracoes no apetite,neuroticismo,> 2 semanas,transtorno depressivo maior
+263,sofrimento intenso,problemas de memoria,retraimento social,nao especificado,insonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+264,melancolia,preocupacao,choro,nao especificado,hipersonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+265,humor deprimido,ruminacao,suicida,nao especificado,perturbacoes do sono,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+266,disforia,recordacao intrusiva,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+267,anedonia,perda de interesse,retraimento social,nao especificado,fadiga persistente,evento traumatico,> 2 semanas,transtorno depressivo maior
+268,tristeza,dificuldade para pensar,choro,nao especificado,perda de energia,perda significativa,> 2 semanas,transtorno depressivo maior
+269,culpa delirante,dificuldade de concentracao,suicida,nao especificado,sintomas somaticos,neuroticismo,> 2 semanas,transtorno depressivo maior
+270,sentimentos de inutilidade,indecisao,tentativa de suicidio,nao especificado,catatonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+271,desesperanca,pensamentos recorrentes de morte,retraimento social,nao especificado,alteracoes de peso significativas,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+272,angustia generalizada,ideacao suicida,choro,nao especificado,alteracoes no apetite,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+273,autoaversao,plano suicida,suicida,nao especificado,insonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+274,sentimentos de desvalia,problemas de memoria,tentativa de suicidio,nao especificado,hipersonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+275,sofrimento intenso,preocupacao,retraimento social,nao especificado,perturbacoes do sono,perda significativa,> 2 semanas,transtorno depressivo maior
+276,melancolia,ruminacao,choro,nao especificado,perturbacoes psicomotoras,neuroticismo,> 2 semanas,transtorno depressivo maior
+277,humor deprimido,recordacao intrusiva,suicida,nao especificado,fadiga persistente,herdabilidade,> 2 semanas,transtorno depressivo maior
+278,disforia,perda de interesse,tentativa de suicidio,nao especificado,perda de energia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+279,anedonia,dificuldade para pensar,retraimento social,nao especificado,sintomas somaticos,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+280,tristeza,dificuldade de concentracao,choro,nao especificado,catatonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+281,culpa delirante,indecisao,suicida,nao especificado,alteracoes de peso significativas,evento traumatico,> 2 semanas,transtorno depressivo maior
+282,sentimentos de inutilidade,pensamentos recorrentes de morte,tentativa de suicidio,nao especificado,alteracoes no apetite,perda significativa,> 2 semanas,transtorno depressivo maior
+283,desesperanca,ideacao suicida,retraimento social,nao especificado,insonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+284,angustia generalizada,plano suicida,choro,nao especificado,hipersonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+285,autoaversao,problemas de memoria,suicida,nao especificado,perturbacoes do sono,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+286,sentimentos de desvalia,preocupacao,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+287,sofrimento intenso,ruminacao,retraimento social,nao especificado,fadiga persistente,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+288,melancolia,recordacao intrusiva,choro,nao especificado,perda de energia,evento traumatico,> 2 semanas,transtorno depressivo maior
+289,humor deprimido,perda de interesse,suicida,nao especificado,sintomas somaticos,perda significativa,> 2 semanas,transtorno depressivo maior
+290,disforia,dificuldade para pensar,tentativa de suicidio,nao especificado,catatonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+291,anedonia,dificuldade de concentracao,retraimento social,nao especificado,alteracoes de peso significativas,herdabilidade,> 2 semanas,transtorno depressivo maior
+292,tristeza,indecisao,choro,nao especificado,alteracoes no apetite,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+293,culpa delirante,pensamentos recorrentes de morte,suicida,nao especificado,insonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+294,sentimentos de inutilidade,ideacao suicida,tentativa de suicidio,nao especificado,hipersonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+295,desesperanca,plano suicida,retraimento social,nao especificado,perturbacoes do sono,evento traumatico,> 2 semanas,transtorno depressivo maior
+296,angustia generalizada,problemas de memoria,choro,nao especificado,perturbacoes psicomotoras,perda significativa,> 2 semanas,transtorno depressivo maior
+297,autoaversao,preocupacao,suicida,nao especificado,fadiga persistente,neuroticismo,> 2 semanas,transtorno depressivo maior
+298,sentimentos de desvalia,ruminacao,tentativa de suicidio,nao especificado,perda de energia,herdabilidade,> 2 semanas,transtorno depressivo maior
+299,sofrimento intenso,recordacao intrusiva,retraimento social,nao especificado,sintomas somaticos,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+300,melancolia,perda de interesse,choro,nao especificado,catatonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+301,humor deprimido,dificuldade para pensar,suicida,nao especificado,alteracoes de peso significativas,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+302,disforia,dificuldade de concentracao,tentativa de suicidio,nao especificado,alteracoes no apetite,evento traumatico,> 2 semanas,transtorno depressivo maior
+303,anedonia,indecisao,retraimento social,nao especificado,insonia,perda significativa,> 2 semanas,transtorno depressivo maior
+304,tristeza,pensamentos recorrentes de morte,choro,nao especificado,hipersonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+305,culpa delirante,ideacao suicida,suicida,nao especificado,perturbacoes do sono,herdabilidade,> 2 semanas,transtorno depressivo maior
+306,sentimentos de inutilidade,plano suicida,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+307,desesperanca,problemas de memoria,retraimento social,nao especificado,fadiga persistente,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+308,angustia generalizada,preocupacao,choro,nao especificado,perda de energia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+309,autoaversao,ruminacao,suicida,nao especificado,sintomas somaticos,evento traumatico,> 2 semanas,transtorno depressivo maior
+310,sentimentos de desvalia,recordacao intrusiva,tentativa de suicidio,nao especificado,catatonia,perda significativa,> 2 semanas,transtorno depressivo maior
+311,sofrimento intenso,perda de interesse,retraimento social,nao especificado,alteracoes de peso significativas,neuroticismo,> 2 semanas,transtorno depressivo maior
+312,melancolia,dificuldade para pensar,choro,nao especificado,alteracoes no apetite,herdabilidade,> 2 semanas,transtorno depressivo maior
+313,humor deprimido,dificuldade de concentracao,suicida,nao especificado,insonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+314,disforia,indecisao,tentativa de suicidio,nao especificado,hipersonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+315,anedonia,pensamentos recorrentes de morte,retraimento social,nao especificado,perturbacoes do sono,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+316,tristeza,ideacao suicida,choro,nao especificado,perturbacoes psicomotoras,evento traumatico,> 2 semanas,transtorno depressivo maior
+317,culpa delirante,plano suicida,suicida,nao especificado,fadiga persistente,perda significativa,> 2 semanas,transtorno depressivo maior
+318,sentimentos de inutilidade,problemas de memoria,tentativa de suicidio,nao especificado,perda de energia,neuroticismo,> 2 semanas,transtorno depressivo maior
+319,desesperanca,preocupacao,retraimento social,nao especificado,sintomas somaticos,herdabilidade,> 2 semanas,transtorno depressivo maior
+320,angustia generalizada,ruminacao,choro,nao especificado,catatonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+321,autoaversao,recordacao intrusiva,suicida,nao especificado,alteracoes de peso significativas,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+322,sentimentos de desvalia,perda de interesse,tentativa de suicidio,nao especificado,alteracoes no apetite,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+323,sofrimento intenso,dificuldade para pensar,retraimento social,nao especificado,insonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+324,melancolia,dificuldade de concentracao,choro,nao especificado,hipersonia,perda significativa,> 2 semanas,transtorno depressivo maior
+325,humor deprimido,indecisao,suicida,nao especificado,perturbacoes do sono,neuroticismo,> 2 semanas,transtorno depressivo maior
+326,disforia,pensamentos recorrentes de morte,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,herdabilidade,> 2 semanas,transtorno depressivo maior
+327,anedonia,ideacao suicida,retraimento social,nao especificado,fadiga persistente,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+328,tristeza,plano suicida,choro,nao especificado,perda de energia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+329,culpa delirante,problemas de memoria,suicida,nao especificado,sintomas somaticos,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+330,sentimentos de inutilidade,preocupacao,tentativa de suicidio,nao especificado,catatonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+331,desesperanca,ruminacao,retraimento social,nao especificado,alteracoes de peso significativas,perda significativa,> 2 semanas,transtorno depressivo maior
+332,angustia generalizada,recordacao intrusiva,choro,nao especificado,alteracoes no apetite,neuroticismo,> 2 semanas,transtorno depressivo maior
+333,autoaversao,perda de interesse,suicida,nao especificado,insonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+334,sentimentos de desvalia,dificuldade para pensar,tentativa de suicidio,nao especificado,hipersonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+335,sofrimento intenso,dificuldade de concentracao,retraimento social,nao especificado,perturbacoes do sono,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+336,melancolia,indecisao,choro,nao especificado,perturbacoes psicomotoras,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+337,humor deprimido,pensamentos recorrentes de morte,suicida,nao especificado,fadiga persistente,evento traumatico,> 2 semanas,transtorno depressivo maior
+338,disforia,ideacao suicida,tentativa de suicidio,nao especificado,perda de energia,perda significativa,> 2 semanas,transtorno depressivo maior
+339,anedonia,plano suicida,retraimento social,nao especificado,sintomas somaticos,neuroticismo,> 2 semanas,transtorno depressivo maior
+340,tristeza,problemas de memoria,choro,nao especificado,catatonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+341,culpa delirante,preocupacao,suicida,nao especificado,alteracoes de peso significativas,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+342,sentimentos de inutilidade,ruminacao,tentativa de suicidio,nao especificado,alteracoes no apetite,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+343,desesperanca,recordacao intrusiva,retraimento social,nao especificado,insonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+344,angustia generalizada,perda de interesse,choro,nao especificado,hipersonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+345,autoaversao,dificuldade para pensar,suicida,nao especificado,perturbacoes do sono,perda significativa,> 2 semanas,transtorno depressivo maior
+346,sentimentos de desvalia,dificuldade de concentracao,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,neuroticismo,> 2 semanas,transtorno depressivo maior
+347,sofrimento intenso,indecisao,retraimento social,nao especificado,fadiga persistente,herdabilidade,> 2 semanas,transtorno depressivo maior
+348,melancolia,pensamentos recorrentes de morte,choro,nao especificado,perda de energia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+349,humor deprimido,ideacao suicida,suicida,nao especificado,sintomas somaticos,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+350,disforia,plano suicida,tentativa de suicidio,nao especificado,catatonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+351,anedonia,problemas de memoria,retraimento social,nao especificado,alteracoes de peso significativas,evento traumatico,> 2 semanas,transtorno depressivo maior
+352,tristeza,preocupacao,choro,nao especificado,alteracoes no apetite,perda significativa,> 2 semanas,transtorno depressivo maior
+353,culpa delirante,ruminacao,suicida,nao especificado,insonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+354,sentimentos de inutilidade,recordacao intrusiva,tentativa de suicidio,nao especificado,hipersonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+355,desesperanca,perda de interesse,retraimento social,nao especificado,perturbacoes do sono,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+356,angustia generalizada,dificuldade para pensar,choro,nao especificado,perturbacoes psicomotoras,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+357,autoaversao,dificuldade de concentracao,suicida,nao especificado,fadiga persistente,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+358,sentimentos de desvalia,indecisao,tentativa de suicidio,nao especificado,perda de energia,evento traumatico,> 2 semanas,transtorno depressivo maior
+359,sofrimento intenso,pensamentos recorrentes de morte,retraimento social,nao especificado,sintomas somaticos,perda significativa,> 2 semanas,transtorno depressivo maior
+360,melancolia,ideacao suicida,choro,nao especificado,catatonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+361,humor deprimido,plano suicida,suicida,nao especificado,alteracoes de peso significativas,herdabilidade,> 2 semanas,transtorno depressivo maior
+362,disforia,problemas de memoria,tentativa de suicidio,nao especificado,alteracoes no apetite,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+363,anedonia,preocupacao,retraimento social,nao especificado,insonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+364,tristeza,ruminacao,choro,nao especificado,hipersonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+365,culpa delirante,recordacao intrusiva,suicida,nao especificado,perturbacoes do sono,evento traumatico,> 2 semanas,transtorno depressivo maior
+366,sentimentos de inutilidade,perda de interesse,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,perda significativa,> 2 semanas,transtorno depressivo maior
+367,desesperanca,dificuldade para pensar,retraimento social,nao especificado,fadiga persistente,neuroticismo,> 2 semanas,transtorno depressivo maior
+368,angustia generalizada,dificuldade de concentracao,choro,nao especificado,perda de energia,herdabilidade,> 2 semanas,transtorno depressivo maior
+369,autoaversao,indecisao,suicida,nao especificado,sintomas somaticos,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+370,sentimentos de desvalia,pensamentos recorrentes de morte,tentativa de suicidio,nao especificado,catatonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+371,sofrimento intenso,ideacao suicida,retraimento social,nao especificado,alteracoes de peso significativas,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+372,melancolia,plano suicida,choro,nao especificado,alteracoes no apetite,evento traumatico,> 2 semanas,transtorno depressivo maior
+373,humor deprimido,problemas de memoria,suicida,nao especificado,insonia,perda significativa,> 2 semanas,transtorno depressivo maior
+374,disforia,preocupacao,tentativa de suicidio,nao especificado,hipersonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+375,anedonia,ruminacao,retraimento social,nao especificado,perturbacoes do sono,herdabilidade,> 2 semanas,transtorno depressivo maior
+376,tristeza,recordacao intrusiva,choro,nao especificado,perturbacoes psicomotoras,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+377,culpa delirante,perda de interesse,suicida,nao especificado,fadiga persistente,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+378,sentimentos de inutilidade,dificuldade para pensar,tentativa de suicidio,nao especificado,perda de energia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+379,desesperanca,dificuldade de concentracao,retraimento social,nao especificado,sintomas somaticos,evento traumatico,> 2 semanas,transtorno depressivo maior
+380,angustia generalizada,indecisao,choro,nao especificado,catatonia,perda significativa,> 2 semanas,transtorno depressivo maior
+381,autoaversao,pensamentos recorrentes de morte,suicida,nao especificado,alteracoes de peso significativas,neuroticismo,> 2 semanas,transtorno depressivo maior
+382,sentimentos de desvalia,ideacao suicida,tentativa de suicidio,nao especificado,alteracoes no apetite,herdabilidade,> 2 semanas,transtorno depressivo maior
+383,sofrimento intenso,plano suicida,retraimento social,nao especificado,insonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+384,melancolia,problemas de memoria,choro,nao especificado,hipersonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+385,humor deprimido,preocupacao,suicida,nao especificado,perturbacoes do sono,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+386,disforia,ruminacao,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,evento traumatico,> 2 semanas,transtorno depressivo maior
+387,anedonia,recordacao intrusiva,retraimento social,nao especificado,fadiga persistente,perda significativa,> 2 semanas,transtorno depressivo maior
+388,tristeza,perda de interesse,choro,nao especificado,perda de energia,neuroticismo,> 2 semanas,transtorno depressivo maior
+389,culpa delirante,dificuldade para pensar,suicida,nao especificado,sintomas somaticos,herdabilidade,> 2 semanas,transtorno depressivo maior
+390,sentimentos de inutilidade,dificuldade de concentracao,tentativa de suicidio,nao especificado,catatonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+391,desesperanca,indecisao,retraimento social,nao especificado,alteracoes de peso significativas,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+392,angustia generalizada,pensamentos recorrentes de morte,choro,nao especificado,alteracoes no apetite,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+393,autoaversao,ideacao suicida,suicida,nao especificado,insonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+394,sentimentos de desvalia,plano suicida,tentativa de suicidio,nao especificado,hipersonia,perda significativa,> 2 semanas,transtorno depressivo maior
+395,sofrimento intenso,problemas de memoria,retraimento social,nao especificado,perturbacoes do sono,neuroticismo,> 2 semanas,transtorno depressivo maior
+396,melancolia,preocupacao,choro,nao especificado,perturbacoes psicomotoras,herdabilidade,> 2 semanas,transtorno depressivo maior
+397,humor deprimido,ruminacao,suicida,nao especificado,fadiga persistente,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+398,disforia,recordacao intrusiva,tentativa de suicidio,nao especificado,perda de energia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+399,anedonia,perda de interesse,retraimento social,nao especificado,sintomas somaticos,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+400,tristeza,dificuldade para pensar,choro,nao especificado,catatonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+401,culpa delirante,dificuldade de concentracao,suicida,nao especificado,alteracoes de peso significativas,perda significativa,> 2 semanas,transtorno depressivo maior
+402,sentimentos de inutilidade,indecisao,tentativa de suicidio,nao especificado,alteracoes no apetite,neuroticismo,> 2 semanas,transtorno depressivo maior
+403,desesperanca,pensamentos recorrentes de morte,retraimento social,nao especificado,insonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+404,angustia generalizada,ideacao suicida,choro,nao especificado,hipersonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+405,autoaversao,plano suicida,suicida,nao especificado,perturbacoes do sono,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+406,sentimentos de desvalia,problemas de memoria,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+407,sofrimento intenso,preocupacao,retraimento social,nao especificado,fadiga persistente,evento traumatico,> 2 semanas,transtorno depressivo maior
+408,melancolia,ruminacao,choro,nao especificado,perda de energia,perda significativa,> 2 semanas,transtorno depressivo maior
+409,humor deprimido,recordacao intrusiva,suicida,nao especificado,sintomas somaticos,neuroticismo,> 2 semanas,transtorno depressivo maior
+410,disforia,perda de interesse,tentativa de suicidio,nao especificado,catatonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+411,anedonia,dificuldade para pensar,retraimento social,nao especificado,alteracoes de peso significativas,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+412,tristeza,dificuldade de concentracao,choro,nao especificado,alteracoes no apetite,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+413,culpa delirante,indecisao,suicida,nao especificado,insonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+414,sentimentos de inutilidade,pensamentos recorrentes de morte,tentativa de suicidio,nao especificado,hipersonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+415,desesperanca,ideacao suicida,retraimento social,nao especificado,perturbacoes do sono,perda significativa,> 2 semanas,transtorno depressivo maior
+416,angustia generalizada,plano suicida,choro,nao especificado,perturbacoes psicomotoras,neuroticismo,> 2 semanas,transtorno depressivo maior
+417,autoaversao,problemas de memoria,suicida,nao especificado,fadiga persistente,herdabilidade,> 2 semanas,transtorno depressivo maior
+418,sentimentos de desvalia,preocupacao,tentativa de suicidio,nao especificado,perda de energia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+419,sofrimento intenso,ruminacao,retraimento social,nao especificado,sintomas somaticos,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+420,melancolia,recordacao intrusiva,choro,nao especificado,catatonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+421,humor deprimido,perda de interesse,suicida,nao especificado,alteracoes de peso significativas,evento traumatico,> 2 semanas,transtorno depressivo maior
+422,disforia,dificuldade para pensar,tentativa de suicidio,nao especificado,alteracoes no apetite,perda significativa,> 2 semanas,transtorno depressivo maior
+423,anedonia,dificuldade de concentracao,retraimento social,nao especificado,insonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+424,tristeza,indecisao,choro,nao especificado,hipersonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+425,culpa delirante,pensamentos recorrentes de morte,suicida,nao especificado,perturbacoes do sono,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+426,sentimentos de inutilidade,ideacao suicida,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+427,desesperanca,plano suicida,retraimento social,nao especificado,fadiga persistente,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+428,angustia generalizada,problemas de memoria,choro,nao especificado,perda de energia,evento traumatico,> 2 semanas,transtorno depressivo maior
+429,autoaversao,preocupacao,suicida,nao especificado,sintomas somaticos,perda significativa,> 2 semanas,transtorno depressivo maior
+430,sentimentos de desvalia,ruminacao,tentativa de suicidio,nao especificado,catatonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+431,sofrimento intenso,recordacao intrusiva,retraimento social,nao especificado,alteracoes de peso significativas,herdabilidade,> 2 semanas,transtorno depressivo maior
+432,melancolia,perda de interesse,choro,nao especificado,alteracoes no apetite,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+433,humor deprimido,dificuldade para pensar,suicida,nao especificado,insonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+434,disforia,dificuldade de concentracao,tentativa de suicidio,nao especificado,hipersonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+435,anedonia,indecisao,retraimento social,nao especificado,perturbacoes do sono,evento traumatico,> 2 semanas,transtorno depressivo maior
+436,tristeza,pensamentos recorrentes de morte,choro,nao especificado,perturbacoes psicomotoras,perda significativa,> 2 semanas,transtorno depressivo maior
+437,culpa delirante,ideacao suicida,suicida,nao especificado,fadiga persistente,neuroticismo,> 2 semanas,transtorno depressivo maior
+438,sentimentos de inutilidade,plano suicida,tentativa de suicidio,nao especificado,perda de energia,herdabilidade,> 2 semanas,transtorno depressivo maior
+439,desesperanca,problemas de memoria,retraimento social,nao especificado,sintomas somaticos,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+440,angustia generalizada,preocupacao,choro,nao especificado,catatonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+441,autoaversao,ruminacao,suicida,nao especificado,alteracoes de peso significativas,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+442,sentimentos de desvalia,recordacao intrusiva,tentativa de suicidio,nao especificado,alteracoes no apetite,evento traumatico,> 2 semanas,transtorno depressivo maior
+443,sofrimento intenso,perda de interesse,retraimento social,nao especificado,insonia,perda significativa,> 2 semanas,transtorno depressivo maior
+444,melancolia,dificuldade para pensar,choro,nao especificado,hipersonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+445,humor deprimido,dificuldade de concentracao,suicida,nao especificado,perturbacoes do sono,herdabilidade,> 2 semanas,transtorno depressivo maior
+446,disforia,indecisao,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+447,anedonia,pensamentos recorrentes de morte,retraimento social,nao especificado,fadiga persistente,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+448,tristeza,ideacao suicida,choro,nao especificado,perda de energia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+449,culpa delirante,plano suicida,suicida,nao especificado,sintomas somaticos,evento traumatico,> 2 semanas,transtorno depressivo maior
+450,sentimentos de inutilidade,problemas de memoria,tentativa de suicidio,nao especificado,catatonia,perda significativa,> 2 semanas,transtorno depressivo maior
+451,desesperanca,preocupacao,retraimento social,nao especificado,alteracoes de peso significativas,neuroticismo,> 2 semanas,transtorno depressivo maior
+452,angustia generalizada,ruminacao,choro,nao especificado,alteracoes no apetite,herdabilidade,> 2 semanas,transtorno depressivo maior
+453,autoaversao,recordacao intrusiva,suicida,nao especificado,insonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+454,sentimentos de desvalia,perda de interesse,tentativa de suicidio,nao especificado,hipersonia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+455,sofrimento intenso,dificuldade para pensar,retraimento social,nao especificado,perturbacoes do sono,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+456,melancolia,dificuldade de concentracao,choro,nao especificado,perturbacoes psicomotoras,evento traumatico,> 2 semanas,transtorno depressivo maior
+457,humor deprimido,indecisao,suicida,nao especificado,fadiga persistente,perda significativa,> 2 semanas,transtorno depressivo maior
+458,disforia,pensamentos recorrentes de morte,tentativa de suicidio,nao especificado,perda de energia,neuroticismo,> 2 semanas,transtorno depressivo maior
+459,anedonia,ideacao suicida,retraimento social,nao especificado,sintomas somaticos,herdabilidade,> 2 semanas,transtorno depressivo maior
+460,tristeza,plano suicida,choro,nao especificado,catatonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+461,culpa delirante,problemas de memoria,suicida,nao especificado,alteracoes de peso significativas,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+462,sentimentos de inutilidade,preocupacao,tentativa de suicidio,nao especificado,alteracoes no apetite,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+463,desesperanca,ruminacao,retraimento social,nao especificado,insonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+464,angustia generalizada,recordacao intrusiva,choro,nao especificado,hipersonia,perda significativa,> 2 semanas,transtorno depressivo maior
+465,autoaversao,perda de interesse,suicida,nao especificado,perturbacoes do sono,neuroticismo,> 2 semanas,transtorno depressivo maior
+466,sentimentos de desvalia,dificuldade para pensar,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,herdabilidade,> 2 semanas,transtorno depressivo maior
+467,sofrimento intenso,dificuldade de concentracao,retraimento social,nao especificado,fadiga persistente,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+468,melancolia,indecisao,choro,nao especificado,perda de energia,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+469,humor deprimido,pensamentos recorrentes de morte,suicida,nao especificado,sintomas somaticos,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+470,disforia,ideacao suicida,tentativa de suicidio,nao especificado,catatonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+471,anedonia,plano suicida,retraimento social,nao especificado,alteracoes de peso significativas,perda significativa,> 2 semanas,transtorno depressivo maior
+472,tristeza,problemas de memoria,choro,nao especificado,alteracoes no apetite,neuroticismo,> 2 semanas,transtorno depressivo maior
+473,culpa delirante,preocupacao,suicida,nao especificado,insonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+474,sentimentos de inutilidade,ruminacao,tentativa de suicidio,nao especificado,hipersonia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+475,desesperanca,recordacao intrusiva,retraimento social,nao especificado,perturbacoes do sono,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+476,angustia generalizada,perda de interesse,choro,nao especificado,perturbacoes psicomotoras,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+477,autoaversao,dificuldade para pensar,suicida,nao especificado,fadiga persistente,evento traumatico,> 2 semanas,transtorno depressivo maior
+478,sentimentos de desvalia,dificuldade de concentracao,tentativa de suicidio,nao especificado,perda de energia,perda significativa,> 2 semanas,transtorno depressivo maior
+479,sofrimento intenso,indecisao,retraimento social,nao especificado,sintomas somaticos,neuroticismo,> 2 semanas,transtorno depressivo maior
+480,melancolia,pensamentos recorrentes de morte,choro,nao especificado,catatonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+481,humor deprimido,ideacao suicida,suicida,nao especificado,alteracoes de peso significativas,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+482,disforia,plano suicida,tentativa de suicidio,nao especificado,alteracoes no apetite,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+483,anedonia,problemas de memoria,retraimento social,nao especificado,insonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+484,tristeza,preocupacao,choro,nao especificado,hipersonia,evento traumatico,> 2 semanas,transtorno depressivo maior
+485,culpa delirante,ruminacao,suicida,nao especificado,perturbacoes do sono,perda significativa,> 2 semanas,transtorno depressivo maior
+486,sentimentos de inutilidade,recordacao intrusiva,tentativa de suicidio,nao especificado,perturbacoes psicomotoras,neuroticismo,> 2 semanas,transtorno depressivo maior
+487,desesperanca,perda de interesse,retraimento social,nao especificado,fadiga persistente,herdabilidade,> 2 semanas,transtorno depressivo maior
+488,angustia generalizada,dificuldade para pensar,choro,nao especificado,perda de energia,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+489,autoaversao,dificuldade de concentracao,suicida,nao especificado,sintomas somaticos,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+490,sentimentos de desvalia,indecisao,tentativa de suicidio,nao especificado,catatonia,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+491,sofrimento intenso,pensamentos recorrentes de morte,retraimento social,nao especificado,alteracoes de peso significativas,evento traumatico,> 2 semanas,transtorno depressivo maior
+492,melancolia,ideacao suicida,choro,nao especificado,alteracoes no apetite,perda significativa,> 2 semanas,transtorno depressivo maior
+493,humor deprimido,plano suicida,suicida,nao especificado,insonia,neuroticismo,> 2 semanas,transtorno depressivo maior
+494,disforia,problemas de memoria,tentativa de suicidio,nao especificado,hipersonia,herdabilidade,> 2 semanas,transtorno depressivo maior
+495,anedonia,preocupacao,retraimento social,nao especificado,perturbacoes do sono,transtornos subjacentes,> 2 semanas,transtorno depressivo maior
+496,tristeza,ruminacao,choro,nao especificado,perturbacoes psicomotoras,condicoes medicas cronicas,> 2 semanas,transtorno depressivo maior
+497,culpa delirante,recordacao intrusiva,suicida,nao especificado,fadiga persistente,condicoes medicas incapacitantes,> 2 semanas,transtorno depressivo maior
+498,sentimentos de inutilidade,perda de interesse,tentativa de suicidio,nao especificado,perda de energia,evento traumatico,> 2 semanas,transtorno depressivo maior
+499,desesperanca,dificuldade para pensar,retraimento social,nao especificado,sintomas somaticos,perda significativa,> 2 semanas,transtorno depressivo maior
+500,angustia generalizada,dificuldade de concentracao,choro,nao especificado,catatonia,neuroticismo,> 2 semanas,transtorno depressivo maior

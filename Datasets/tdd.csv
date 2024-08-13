@@ -1,0 +1,501 @@
+VARIACAO,HUMOR,COGNICAO,COMPORTAMENTO,PERCEPCAO,FISIOLOGICO,RISCO,DURACAO,RESULTADO
+1,hipoemotividade,dificuldade em descrever sintomas,robotico,despersonalizacao,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+2,anestesia emocional,ruminacao,automato,desrealizacao,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+3,sofrimento intenso,preocupacao,conduta embotada,alteracoes perceptuais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+4,medo de dano cerebral,acreditar que esta enlouquecendo,robotico,distorcoes visuais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+5,insensibilidade,dificuldade em descrever sintomas,automato,distorcoes auditivas,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+6,inercia,ruminacao,conduta embotada,distorcoes temporais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+7,apatia,preocupacao,robotico,experiencia extracorporea,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+8,hipoemotividade,acreditar que esta enlouquecendo,automato,despersonalizacao,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+9,anestesia emocional,dificuldade em descrever sintomas,conduta embotada,desrealizacao,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+10,sofrimento intenso,ruminacao,robotico,alteracoes perceptuais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+11,medo de dano cerebral,preocupacao,automato,distorcoes visuais,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+12,insensibilidade,acreditar que esta enlouquecendo,conduta embotada,distorcoes auditivas,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+13,inercia,dificuldade em descrever sintomas,robotico,distorcoes temporais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+14,apatia,ruminacao,automato,experiencia extracorporea,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+15,hipoemotividade,preocupacao,conduta embotada,despersonalizacao,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+16,anestesia emocional,acreditar que esta enlouquecendo,robotico,desrealizacao,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+17,sofrimento intenso,dificuldade em descrever sintomas,automato,alteracoes perceptuais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+18,medo de dano cerebral,ruminacao,conduta embotada,distorcoes visuais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+19,insensibilidade,preocupacao,robotico,distorcoes auditivas,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+20,inercia,acreditar que esta enlouquecendo,automato,distorcoes temporais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+21,apatia,dificuldade em descrever sintomas,conduta embotada,experiencia extracorporea,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+22,hipoemotividade,ruminacao,robotico,despersonalizacao,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+23,anestesia emocional,preocupacao,automato,desrealizacao,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+24,sofrimento intenso,acreditar que esta enlouquecendo,conduta embotada,alteracoes perceptuais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+25,medo de dano cerebral,dificuldade em descrever sintomas,robotico,distorcoes visuais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+26,insensibilidade,ruminacao,automato,distorcoes auditivas,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+27,inercia,preocupacao,conduta embotada,distorcoes temporais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+28,apatia,acreditar que esta enlouquecendo,robotico,experiencia extracorporea,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+29,hipoemotividade,dificuldade em descrever sintomas,automato,despersonalizacao,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+30,anestesia emocional,ruminacao,conduta embotada,desrealizacao,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+31,sofrimento intenso,preocupacao,robotico,alteracoes perceptuais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+32,medo de dano cerebral,acreditar que esta enlouquecendo,automato,distorcoes visuais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+33,insensibilidade,dificuldade em descrever sintomas,conduta embotada,distorcoes auditivas,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+34,inercia,ruminacao,robotico,distorcoes temporais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+35,apatia,preocupacao,automato,experiencia extracorporea,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+36,hipoemotividade,acreditar que esta enlouquecendo,conduta embotada,despersonalizacao,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+37,anestesia emocional,dificuldade em descrever sintomas,robotico,desrealizacao,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+38,sofrimento intenso,ruminacao,automato,alteracoes perceptuais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+39,medo de dano cerebral,preocupacao,conduta embotada,distorcoes visuais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+40,insensibilidade,acreditar que esta enlouquecendo,robotico,distorcoes auditivas,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+41,inercia,dificuldade em descrever sintomas,automato,distorcoes temporais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+42,apatia,ruminacao,conduta embotada,experiencia extracorporea,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+43,hipoemotividade,preocupacao,robotico,despersonalizacao,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+44,anestesia emocional,acreditar que esta enlouquecendo,automato,desrealizacao,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+45,sofrimento intenso,dificuldade em descrever sintomas,conduta embotada,alteracoes perceptuais,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+46,medo de dano cerebral,ruminacao,robotico,distorcoes visuais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+47,insensibilidade,preocupacao,automato,distorcoes auditivas,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+48,inercia,acreditar que esta enlouquecendo,conduta embotada,distorcoes temporais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+49,apatia,dificuldade em descrever sintomas,robotico,experiencia extracorporea,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+50,hipoemotividade,ruminacao,automato,despersonalizacao,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+51,anestesia emocional,preocupacao,conduta embotada,desrealizacao,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+52,sofrimento intenso,acreditar que esta enlouquecendo,robotico,alteracoes perceptuais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+53,medo de dano cerebral,dificuldade em descrever sintomas,automato,distorcoes visuais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+54,insensibilidade,ruminacao,conduta embotada,distorcoes auditivas,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+55,inercia,preocupacao,robotico,distorcoes temporais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+56,apatia,acreditar que esta enlouquecendo,automato,experiencia extracorporea,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+57,hipoemotividade,dificuldade em descrever sintomas,conduta embotada,despersonalizacao,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+58,anestesia emocional,ruminacao,robotico,desrealizacao,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+59,sofrimento intenso,preocupacao,automato,alteracoes perceptuais,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+60,medo de dano cerebral,acreditar que esta enlouquecendo,conduta embotada,distorcoes visuais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+61,insensibilidade,dificuldade em descrever sintomas,robotico,distorcoes auditivas,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+62,inercia,ruminacao,automato,distorcoes temporais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+63,apatia,preocupacao,conduta embotada,experiencia extracorporea,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+64,hipoemotividade,acreditar que esta enlouquecendo,robotico,despersonalizacao,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+65,anestesia emocional,dificuldade em descrever sintomas,automato,desrealizacao,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+66,sofrimento intenso,ruminacao,conduta embotada,alteracoes perceptuais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+67,medo de dano cerebral,preocupacao,robotico,distorcoes visuais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+68,insensibilidade,acreditar que esta enlouquecendo,automato,distorcoes auditivas,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+69,inercia,dificuldade em descrever sintomas,conduta embotada,distorcoes temporais,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+70,apatia,ruminacao,robotico,experiencia extracorporea,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+71,hipoemotividade,preocupacao,automato,despersonalizacao,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+72,anestesia emocional,acreditar que esta enlouquecendo,conduta embotada,desrealizacao,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+73,sofrimento intenso,dificuldade em descrever sintomas,robotico,alteracoes perceptuais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+74,medo de dano cerebral,ruminacao,automato,distorcoes visuais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+75,insensibilidade,preocupacao,conduta embotada,distorcoes auditivas,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+76,inercia,acreditar que esta enlouquecendo,robotico,distorcoes temporais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+77,apatia,dificuldade em descrever sintomas,automato,experiencia extracorporea,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+78,hipoemotividade,ruminacao,conduta embotada,despersonalizacao,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+79,anestesia emocional,preocupacao,robotico,desrealizacao,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+80,sofrimento intenso,acreditar que esta enlouquecendo,automato,alteracoes perceptuais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+81,medo de dano cerebral,dificuldade em descrever sintomas,conduta embotada,distorcoes visuais,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+82,insensibilidade,ruminacao,robotico,distorcoes auditivas,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+83,inercia,preocupacao,automato,distorcoes temporais,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+84,apatia,acreditar que esta enlouquecendo,conduta embotada,experiencia extracorporea,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+85,hipoemotividade,dificuldade em descrever sintomas,robotico,despersonalizacao,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+86,anestesia emocional,ruminacao,automato,desrealizacao,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+87,sofrimento intenso,preocupacao,conduta embotada,alteracoes perceptuais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+88,medo de dano cerebral,acreditar que esta enlouquecendo,robotico,distorcoes visuais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+89,insensibilidade,dificuldade em descrever sintomas,automato,distorcoes auditivas,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+90,inercia,ruminacao,conduta embotada,distorcoes temporais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+91,apatia,preocupacao,robotico,experiencia extracorporea,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+92,hipoemotividade,acreditar que esta enlouquecendo,automato,despersonalizacao,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+93,anestesia emocional,dificuldade em descrever sintomas,conduta embotada,desrealizacao,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+94,sofrimento intenso,ruminacao,robotico,alteracoes perceptuais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+95,medo de dano cerebral,preocupacao,automato,distorcoes visuais,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+96,insensibilidade,acreditar que esta enlouquecendo,conduta embotada,distorcoes auditivas,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+97,inercia,dificuldade em descrever sintomas,robotico,distorcoes temporais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+98,apatia,ruminacao,automato,experiencia extracorporea,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+99,hipoemotividade,preocupacao,conduta embotada,despersonalizacao,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+100,anestesia emocional,acreditar que esta enlouquecendo,robotico,desrealizacao,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+101,sofrimento intenso,dificuldade em descrever sintomas,automato,alteracoes perceptuais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+102,medo de dano cerebral,ruminacao,conduta embotada,distorcoes visuais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+103,insensibilidade,preocupacao,robotico,distorcoes auditivas,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+104,inercia,acreditar que esta enlouquecendo,automato,distorcoes temporais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+105,apatia,dificuldade em descrever sintomas,conduta embotada,experiencia extracorporea,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+106,hipoemotividade,ruminacao,robotico,despersonalizacao,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+107,anestesia emocional,preocupacao,automato,desrealizacao,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+108,sofrimento intenso,acreditar que esta enlouquecendo,conduta embotada,alteracoes perceptuais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+109,medo de dano cerebral,dificuldade em descrever sintomas,robotico,distorcoes visuais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+110,insensibilidade,ruminacao,automato,distorcoes auditivas,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+111,inercia,preocupacao,conduta embotada,distorcoes temporais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+112,apatia,acreditar que esta enlouquecendo,robotico,experiencia extracorporea,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+113,hipoemotividade,dificuldade em descrever sintomas,automato,despersonalizacao,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+114,anestesia emocional,ruminacao,conduta embotada,desrealizacao,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+115,sofrimento intenso,preocupacao,robotico,alteracoes perceptuais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+116,medo de dano cerebral,acreditar que esta enlouquecendo,automato,distorcoes visuais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+117,insensibilidade,dificuldade em descrever sintomas,conduta embotada,distorcoes auditivas,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+118,inercia,ruminacao,robotico,distorcoes temporais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+119,apatia,preocupacao,automato,experiencia extracorporea,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+120,hipoemotividade,acreditar que esta enlouquecendo,conduta embotada,despersonalizacao,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+121,anestesia emocional,dificuldade em descrever sintomas,robotico,desrealizacao,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+122,sofrimento intenso,ruminacao,automato,alteracoes perceptuais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+123,medo de dano cerebral,preocupacao,conduta embotada,distorcoes visuais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+124,insensibilidade,acreditar que esta enlouquecendo,robotico,distorcoes auditivas,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+125,inercia,dificuldade em descrever sintomas,automato,distorcoes temporais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+126,apatia,ruminacao,conduta embotada,experiencia extracorporea,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+127,hipoemotividade,preocupacao,robotico,despersonalizacao,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+128,anestesia emocional,acreditar que esta enlouquecendo,automato,desrealizacao,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+129,sofrimento intenso,dificuldade em descrever sintomas,conduta embotada,alteracoes perceptuais,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+130,medo de dano cerebral,ruminacao,robotico,distorcoes visuais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+131,insensibilidade,preocupacao,automato,distorcoes auditivas,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+132,inercia,acreditar que esta enlouquecendo,conduta embotada,distorcoes temporais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+133,apatia,dificuldade em descrever sintomas,robotico,experiencia extracorporea,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+134,hipoemotividade,ruminacao,automato,despersonalizacao,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+135,anestesia emocional,preocupacao,conduta embotada,desrealizacao,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+136,sofrimento intenso,acreditar que esta enlouquecendo,robotico,alteracoes perceptuais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+137,medo de dano cerebral,dificuldade em descrever sintomas,automato,distorcoes visuais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+138,insensibilidade,ruminacao,conduta embotada,distorcoes auditivas,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+139,inercia,preocupacao,robotico,distorcoes temporais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+140,apatia,acreditar que esta enlouquecendo,automato,experiencia extracorporea,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+141,hipoemotividade,dificuldade em descrever sintomas,conduta embotada,despersonalizacao,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+142,anestesia emocional,ruminacao,robotico,desrealizacao,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+143,sofrimento intenso,preocupacao,automato,alteracoes perceptuais,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+144,medo de dano cerebral,acreditar que esta enlouquecendo,conduta embotada,distorcoes visuais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+145,insensibilidade,dificuldade em descrever sintomas,robotico,distorcoes auditivas,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+146,inercia,ruminacao,automato,distorcoes temporais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+147,apatia,preocupacao,conduta embotada,experiencia extracorporea,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+148,hipoemotividade,acreditar que esta enlouquecendo,robotico,despersonalizacao,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+149,anestesia emocional,dificuldade em descrever sintomas,automato,desrealizacao,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+150,sofrimento intenso,ruminacao,conduta embotada,alteracoes perceptuais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+151,medo de dano cerebral,preocupacao,robotico,distorcoes visuais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+152,insensibilidade,acreditar que esta enlouquecendo,automato,distorcoes auditivas,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+153,inercia,dificuldade em descrever sintomas,conduta embotada,distorcoes temporais,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+154,apatia,ruminacao,robotico,experiencia extracorporea,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+155,hipoemotividade,preocupacao,automato,despersonalizacao,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+156,anestesia emocional,acreditar que esta enlouquecendo,conduta embotada,desrealizacao,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+157,sofrimento intenso,dificuldade em descrever sintomas,robotico,alteracoes perceptuais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+158,medo de dano cerebral,ruminacao,automato,distorcoes visuais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+159,insensibilidade,preocupacao,conduta embotada,distorcoes auditivas,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+160,inercia,acreditar que esta enlouquecendo,robotico,distorcoes temporais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+161,apatia,dificuldade em descrever sintomas,automato,experiencia extracorporea,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+162,hipoemotividade,ruminacao,conduta embotada,despersonalizacao,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+163,anestesia emocional,preocupacao,robotico,desrealizacao,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+164,sofrimento intenso,acreditar que esta enlouquecendo,automato,alteracoes perceptuais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+165,medo de dano cerebral,dificuldade em descrever sintomas,conduta embotada,distorcoes visuais,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+166,insensibilidade,ruminacao,robotico,distorcoes auditivas,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+167,inercia,preocupacao,automato,distorcoes temporais,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+168,apatia,acreditar que esta enlouquecendo,conduta embotada,experiencia extracorporea,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+169,hipoemotividade,dificuldade em descrever sintomas,robotico,despersonalizacao,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+170,anestesia emocional,ruminacao,automato,desrealizacao,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+171,sofrimento intenso,preocupacao,conduta embotada,alteracoes perceptuais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+172,medo de dano cerebral,acreditar que esta enlouquecendo,robotico,distorcoes visuais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+173,insensibilidade,dificuldade em descrever sintomas,automato,distorcoes auditivas,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+174,inercia,ruminacao,conduta embotada,distorcoes temporais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+175,apatia,preocupacao,robotico,experiencia extracorporea,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+176,hipoemotividade,acreditar que esta enlouquecendo,automato,despersonalizacao,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+177,anestesia emocional,dificuldade em descrever sintomas,conduta embotada,desrealizacao,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+178,sofrimento intenso,ruminacao,robotico,alteracoes perceptuais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+179,medo de dano cerebral,preocupacao,automato,distorcoes visuais,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+180,insensibilidade,acreditar que esta enlouquecendo,conduta embotada,distorcoes auditivas,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+181,inercia,dificuldade em descrever sintomas,robotico,distorcoes temporais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+182,apatia,ruminacao,automato,experiencia extracorporea,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+183,hipoemotividade,preocupacao,conduta embotada,despersonalizacao,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+184,anestesia emocional,acreditar que esta enlouquecendo,robotico,desrealizacao,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+185,sofrimento intenso,dificuldade em descrever sintomas,automato,alteracoes perceptuais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+186,medo de dano cerebral,ruminacao,conduta embotada,distorcoes visuais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+187,insensibilidade,preocupacao,robotico,distorcoes auditivas,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+188,inercia,acreditar que esta enlouquecendo,automato,distorcoes temporais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+189,apatia,dificuldade em descrever sintomas,conduta embotada,experiencia extracorporea,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+190,hipoemotividade,ruminacao,robotico,despersonalizacao,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+191,anestesia emocional,preocupacao,automato,desrealizacao,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+192,sofrimento intenso,acreditar que esta enlouquecendo,conduta embotada,alteracoes perceptuais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+193,medo de dano cerebral,dificuldade em descrever sintomas,robotico,distorcoes visuais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+194,insensibilidade,ruminacao,automato,distorcoes auditivas,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+195,inercia,preocupacao,conduta embotada,distorcoes temporais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+196,apatia,acreditar que esta enlouquecendo,robotico,experiencia extracorporea,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+197,hipoemotividade,dificuldade em descrever sintomas,automato,despersonalizacao,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+198,anestesia emocional,ruminacao,conduta embotada,desrealizacao,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+199,sofrimento intenso,preocupacao,robotico,alteracoes perceptuais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+200,medo de dano cerebral,acreditar que esta enlouquecendo,automato,distorcoes visuais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+201,insensibilidade,dificuldade em descrever sintomas,conduta embotada,distorcoes auditivas,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+202,inercia,ruminacao,robotico,distorcoes temporais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+203,apatia,preocupacao,automato,experiencia extracorporea,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+204,hipoemotividade,acreditar que esta enlouquecendo,conduta embotada,despersonalizacao,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+205,anestesia emocional,dificuldade em descrever sintomas,robotico,desrealizacao,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+206,sofrimento intenso,ruminacao,automato,alteracoes perceptuais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+207,medo de dano cerebral,preocupacao,conduta embotada,distorcoes visuais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+208,insensibilidade,acreditar que esta enlouquecendo,robotico,distorcoes auditivas,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+209,inercia,dificuldade em descrever sintomas,automato,distorcoes temporais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+210,apatia,ruminacao,conduta embotada,experiencia extracorporea,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+211,hipoemotividade,preocupacao,robotico,despersonalizacao,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+212,anestesia emocional,acreditar que esta enlouquecendo,automato,desrealizacao,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+213,sofrimento intenso,dificuldade em descrever sintomas,conduta embotada,alteracoes perceptuais,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+214,medo de dano cerebral,ruminacao,robotico,distorcoes visuais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+215,insensibilidade,preocupacao,automato,distorcoes auditivas,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+216,inercia,acreditar que esta enlouquecendo,conduta embotada,distorcoes temporais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+217,apatia,dificuldade em descrever sintomas,robotico,experiencia extracorporea,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+218,hipoemotividade,ruminacao,automato,despersonalizacao,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+219,anestesia emocional,preocupacao,conduta embotada,desrealizacao,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+220,sofrimento intenso,acreditar que esta enlouquecendo,robotico,alteracoes perceptuais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+221,medo de dano cerebral,dificuldade em descrever sintomas,automato,distorcoes visuais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+222,insensibilidade,ruminacao,conduta embotada,distorcoes auditivas,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+223,inercia,preocupacao,robotico,distorcoes temporais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+224,apatia,acreditar que esta enlouquecendo,automato,experiencia extracorporea,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+225,hipoemotividade,dificuldade em descrever sintomas,conduta embotada,despersonalizacao,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+226,anestesia emocional,ruminacao,robotico,desrealizacao,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+227,sofrimento intenso,preocupacao,automato,alteracoes perceptuais,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+228,medo de dano cerebral,acreditar que esta enlouquecendo,conduta embotada,distorcoes visuais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+229,insensibilidade,dificuldade em descrever sintomas,robotico,distorcoes auditivas,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+230,inercia,ruminacao,automato,distorcoes temporais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+231,apatia,preocupacao,conduta embotada,experiencia extracorporea,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+232,hipoemotividade,acreditar que esta enlouquecendo,robotico,despersonalizacao,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+233,anestesia emocional,dificuldade em descrever sintomas,automato,desrealizacao,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+234,sofrimento intenso,ruminacao,conduta embotada,alteracoes perceptuais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+235,medo de dano cerebral,preocupacao,robotico,distorcoes visuais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+236,insensibilidade,acreditar que esta enlouquecendo,automato,distorcoes auditivas,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+237,inercia,dificuldade em descrever sintomas,conduta embotada,distorcoes temporais,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+238,apatia,ruminacao,robotico,experiencia extracorporea,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+239,hipoemotividade,preocupacao,automato,despersonalizacao,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+240,anestesia emocional,acreditar que esta enlouquecendo,conduta embotada,desrealizacao,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+241,sofrimento intenso,dificuldade em descrever sintomas,robotico,alteracoes perceptuais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+242,medo de dano cerebral,ruminacao,automato,distorcoes visuais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+243,insensibilidade,preocupacao,conduta embotada,distorcoes auditivas,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+244,inercia,acreditar que esta enlouquecendo,robotico,distorcoes temporais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+245,apatia,dificuldade em descrever sintomas,automato,experiencia extracorporea,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+246,hipoemotividade,ruminacao,conduta embotada,despersonalizacao,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+247,anestesia emocional,preocupacao,robotico,desrealizacao,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+248,sofrimento intenso,acreditar que esta enlouquecendo,automato,alteracoes perceptuais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+249,medo de dano cerebral,dificuldade em descrever sintomas,conduta embotada,distorcoes visuais,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+250,insensibilidade,ruminacao,robotico,distorcoes auditivas,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+251,inercia,preocupacao,automato,distorcoes temporais,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+252,apatia,acreditar que esta enlouquecendo,conduta embotada,experiencia extracorporea,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+253,hipoemotividade,dificuldade em descrever sintomas,robotico,despersonalizacao,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+254,anestesia emocional,ruminacao,automato,desrealizacao,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+255,sofrimento intenso,preocupacao,conduta embotada,alteracoes perceptuais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+256,medo de dano cerebral,acreditar que esta enlouquecendo,robotico,distorcoes visuais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+257,insensibilidade,dificuldade em descrever sintomas,automato,distorcoes auditivas,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+258,inercia,ruminacao,conduta embotada,distorcoes temporais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+259,apatia,preocupacao,robotico,experiencia extracorporea,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+260,hipoemotividade,acreditar que esta enlouquecendo,automato,despersonalizacao,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+261,anestesia emocional,dificuldade em descrever sintomas,conduta embotada,desrealizacao,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+262,sofrimento intenso,ruminacao,robotico,alteracoes perceptuais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+263,medo de dano cerebral,preocupacao,automato,distorcoes visuais,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+264,insensibilidade,acreditar que esta enlouquecendo,conduta embotada,distorcoes auditivas,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+265,inercia,dificuldade em descrever sintomas,robotico,distorcoes temporais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+266,apatia,ruminacao,automato,experiencia extracorporea,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+267,hipoemotividade,preocupacao,conduta embotada,despersonalizacao,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+268,anestesia emocional,acreditar que esta enlouquecendo,robotico,desrealizacao,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+269,sofrimento intenso,dificuldade em descrever sintomas,automato,alteracoes perceptuais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+270,medo de dano cerebral,ruminacao,conduta embotada,distorcoes visuais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+271,insensibilidade,preocupacao,robotico,distorcoes auditivas,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+272,inercia,acreditar que esta enlouquecendo,automato,distorcoes temporais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+273,apatia,dificuldade em descrever sintomas,conduta embotada,experiencia extracorporea,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+274,hipoemotividade,ruminacao,robotico,despersonalizacao,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+275,anestesia emocional,preocupacao,automato,desrealizacao,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+276,sofrimento intenso,acreditar que esta enlouquecendo,conduta embotada,alteracoes perceptuais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+277,medo de dano cerebral,dificuldade em descrever sintomas,robotico,distorcoes visuais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+278,insensibilidade,ruminacao,automato,distorcoes auditivas,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+279,inercia,preocupacao,conduta embotada,distorcoes temporais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+280,apatia,acreditar que esta enlouquecendo,robotico,experiencia extracorporea,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+281,hipoemotividade,dificuldade em descrever sintomas,automato,despersonalizacao,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+282,anestesia emocional,ruminacao,conduta embotada,desrealizacao,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+283,sofrimento intenso,preocupacao,robotico,alteracoes perceptuais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+284,medo de dano cerebral,acreditar que esta enlouquecendo,automato,distorcoes visuais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+285,insensibilidade,dificuldade em descrever sintomas,conduta embotada,distorcoes auditivas,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+286,inercia,ruminacao,robotico,distorcoes temporais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+287,apatia,preocupacao,automato,experiencia extracorporea,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+288,hipoemotividade,acreditar que esta enlouquecendo,conduta embotada,despersonalizacao,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+289,anestesia emocional,dificuldade em descrever sintomas,robotico,desrealizacao,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+290,sofrimento intenso,ruminacao,automato,alteracoes perceptuais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+291,medo de dano cerebral,preocupacao,conduta embotada,distorcoes visuais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+292,insensibilidade,acreditar que esta enlouquecendo,robotico,distorcoes auditivas,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+293,inercia,dificuldade em descrever sintomas,automato,distorcoes temporais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+294,apatia,ruminacao,conduta embotada,experiencia extracorporea,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+295,hipoemotividade,preocupacao,robotico,despersonalizacao,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+296,anestesia emocional,acreditar que esta enlouquecendo,automato,desrealizacao,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+297,sofrimento intenso,dificuldade em descrever sintomas,conduta embotada,alteracoes perceptuais,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+298,medo de dano cerebral,ruminacao,robotico,distorcoes visuais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+299,insensibilidade,preocupacao,automato,distorcoes auditivas,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+300,inercia,acreditar que esta enlouquecendo,conduta embotada,distorcoes temporais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+301,apatia,dificuldade em descrever sintomas,robotico,experiencia extracorporea,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+302,hipoemotividade,ruminacao,automato,despersonalizacao,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+303,anestesia emocional,preocupacao,conduta embotada,desrealizacao,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+304,sofrimento intenso,acreditar que esta enlouquecendo,robotico,alteracoes perceptuais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+305,medo de dano cerebral,dificuldade em descrever sintomas,automato,distorcoes visuais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+306,insensibilidade,ruminacao,conduta embotada,distorcoes auditivas,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+307,inercia,preocupacao,robotico,distorcoes temporais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+308,apatia,acreditar que esta enlouquecendo,automato,experiencia extracorporea,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+309,hipoemotividade,dificuldade em descrever sintomas,conduta embotada,despersonalizacao,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+310,anestesia emocional,ruminacao,robotico,desrealizacao,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+311,sofrimento intenso,preocupacao,automato,alteracoes perceptuais,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+312,medo de dano cerebral,acreditar que esta enlouquecendo,conduta embotada,distorcoes visuais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+313,insensibilidade,dificuldade em descrever sintomas,robotico,distorcoes auditivas,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+314,inercia,ruminacao,automato,distorcoes temporais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+315,apatia,preocupacao,conduta embotada,experiencia extracorporea,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+316,hipoemotividade,acreditar que esta enlouquecendo,robotico,despersonalizacao,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+317,anestesia emocional,dificuldade em descrever sintomas,automato,desrealizacao,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+318,sofrimento intenso,ruminacao,conduta embotada,alteracoes perceptuais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+319,medo de dano cerebral,preocupacao,robotico,distorcoes visuais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+320,insensibilidade,acreditar que esta enlouquecendo,automato,distorcoes auditivas,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+321,inercia,dificuldade em descrever sintomas,conduta embotada,distorcoes temporais,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+322,apatia,ruminacao,robotico,experiencia extracorporea,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+323,hipoemotividade,preocupacao,automato,despersonalizacao,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+324,anestesia emocional,acreditar que esta enlouquecendo,conduta embotada,desrealizacao,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+325,sofrimento intenso,dificuldade em descrever sintomas,robotico,alteracoes perceptuais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+326,medo de dano cerebral,ruminacao,automato,distorcoes visuais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+327,insensibilidade,preocupacao,conduta embotada,distorcoes auditivas,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+328,inercia,acreditar que esta enlouquecendo,robotico,distorcoes temporais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+329,apatia,dificuldade em descrever sintomas,automato,experiencia extracorporea,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+330,hipoemotividade,ruminacao,conduta embotada,despersonalizacao,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+331,anestesia emocional,preocupacao,robotico,desrealizacao,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+332,sofrimento intenso,acreditar que esta enlouquecendo,automato,alteracoes perceptuais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+333,medo de dano cerebral,dificuldade em descrever sintomas,conduta embotada,distorcoes visuais,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+334,insensibilidade,ruminacao,robotico,distorcoes auditivas,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+335,inercia,preocupacao,automato,distorcoes temporais,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+336,apatia,acreditar que esta enlouquecendo,conduta embotada,experiencia extracorporea,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+337,hipoemotividade,dificuldade em descrever sintomas,robotico,despersonalizacao,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+338,anestesia emocional,ruminacao,automato,desrealizacao,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+339,sofrimento intenso,preocupacao,conduta embotada,alteracoes perceptuais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+340,medo de dano cerebral,acreditar que esta enlouquecendo,robotico,distorcoes visuais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+341,insensibilidade,dificuldade em descrever sintomas,automato,distorcoes auditivas,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+342,inercia,ruminacao,conduta embotada,distorcoes temporais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+343,apatia,preocupacao,robotico,experiencia extracorporea,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+344,hipoemotividade,acreditar que esta enlouquecendo,automato,despersonalizacao,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+345,anestesia emocional,dificuldade em descrever sintomas,conduta embotada,desrealizacao,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+346,sofrimento intenso,ruminacao,robotico,alteracoes perceptuais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+347,medo de dano cerebral,preocupacao,automato,distorcoes visuais,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+348,insensibilidade,acreditar que esta enlouquecendo,conduta embotada,distorcoes auditivas,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+349,inercia,dificuldade em descrever sintomas,robotico,distorcoes temporais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+350,apatia,ruminacao,automato,experiencia extracorporea,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+351,hipoemotividade,preocupacao,conduta embotada,despersonalizacao,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+352,anestesia emocional,acreditar que esta enlouquecendo,robotico,desrealizacao,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+353,sofrimento intenso,dificuldade em descrever sintomas,automato,alteracoes perceptuais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+354,medo de dano cerebral,ruminacao,conduta embotada,distorcoes visuais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+355,insensibilidade,preocupacao,robotico,distorcoes auditivas,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+356,inercia,acreditar que esta enlouquecendo,automato,distorcoes temporais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+357,apatia,dificuldade em descrever sintomas,conduta embotada,experiencia extracorporea,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+358,hipoemotividade,ruminacao,robotico,despersonalizacao,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+359,anestesia emocional,preocupacao,automato,desrealizacao,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+360,sofrimento intenso,acreditar que esta enlouquecendo,conduta embotada,alteracoes perceptuais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+361,medo de dano cerebral,dificuldade em descrever sintomas,robotico,distorcoes visuais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+362,insensibilidade,ruminacao,automato,distorcoes auditivas,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+363,inercia,preocupacao,conduta embotada,distorcoes temporais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+364,apatia,acreditar que esta enlouquecendo,robotico,experiencia extracorporea,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+365,hipoemotividade,dificuldade em descrever sintomas,automato,despersonalizacao,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+366,anestesia emocional,ruminacao,conduta embotada,desrealizacao,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+367,sofrimento intenso,preocupacao,robotico,alteracoes perceptuais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+368,medo de dano cerebral,acreditar que esta enlouquecendo,automato,distorcoes visuais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+369,insensibilidade,dificuldade em descrever sintomas,conduta embotada,distorcoes auditivas,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+370,inercia,ruminacao,robotico,distorcoes temporais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+371,apatia,preocupacao,automato,experiencia extracorporea,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+372,hipoemotividade,acreditar que esta enlouquecendo,conduta embotada,despersonalizacao,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+373,anestesia emocional,dificuldade em descrever sintomas,robotico,desrealizacao,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+374,sofrimento intenso,ruminacao,automato,alteracoes perceptuais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+375,medo de dano cerebral,preocupacao,conduta embotada,distorcoes visuais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+376,insensibilidade,acreditar que esta enlouquecendo,robotico,distorcoes auditivas,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+377,inercia,dificuldade em descrever sintomas,automato,distorcoes temporais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+378,apatia,ruminacao,conduta embotada,experiencia extracorporea,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+379,hipoemotividade,preocupacao,robotico,despersonalizacao,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+380,anestesia emocional,acreditar que esta enlouquecendo,automato,desrealizacao,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+381,sofrimento intenso,dificuldade em descrever sintomas,conduta embotada,alteracoes perceptuais,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+382,medo de dano cerebral,ruminacao,robotico,distorcoes visuais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+383,insensibilidade,preocupacao,automato,distorcoes auditivas,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+384,inercia,acreditar que esta enlouquecendo,conduta embotada,distorcoes temporais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+385,apatia,dificuldade em descrever sintomas,robotico,experiencia extracorporea,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+386,hipoemotividade,ruminacao,automato,despersonalizacao,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+387,anestesia emocional,preocupacao,conduta embotada,desrealizacao,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+388,sofrimento intenso,acreditar que esta enlouquecendo,robotico,alteracoes perceptuais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+389,medo de dano cerebral,dificuldade em descrever sintomas,automato,distorcoes visuais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+390,insensibilidade,ruminacao,conduta embotada,distorcoes auditivas,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+391,inercia,preocupacao,robotico,distorcoes temporais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+392,apatia,acreditar que esta enlouquecendo,automato,experiencia extracorporea,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+393,hipoemotividade,dificuldade em descrever sintomas,conduta embotada,despersonalizacao,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+394,anestesia emocional,ruminacao,robotico,desrealizacao,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+395,sofrimento intenso,preocupacao,automato,alteracoes perceptuais,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+396,medo de dano cerebral,acreditar que esta enlouquecendo,conduta embotada,distorcoes visuais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+397,insensibilidade,dificuldade em descrever sintomas,robotico,distorcoes auditivas,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+398,inercia,ruminacao,automato,distorcoes temporais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+399,apatia,preocupacao,conduta embotada,experiencia extracorporea,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+400,hipoemotividade,acreditar que esta enlouquecendo,robotico,despersonalizacao,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+401,anestesia emocional,dificuldade em descrever sintomas,automato,desrealizacao,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+402,sofrimento intenso,ruminacao,conduta embotada,alteracoes perceptuais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+403,medo de dano cerebral,preocupacao,robotico,distorcoes visuais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+404,insensibilidade,acreditar que esta enlouquecendo,automato,distorcoes auditivas,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+405,inercia,dificuldade em descrever sintomas,conduta embotada,distorcoes temporais,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+406,apatia,ruminacao,robotico,experiencia extracorporea,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+407,hipoemotividade,preocupacao,automato,despersonalizacao,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+408,anestesia emocional,acreditar que esta enlouquecendo,conduta embotada,desrealizacao,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+409,sofrimento intenso,dificuldade em descrever sintomas,robotico,alteracoes perceptuais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+410,medo de dano cerebral,ruminacao,automato,distorcoes visuais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+411,insensibilidade,preocupacao,conduta embotada,distorcoes auditivas,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+412,inercia,acreditar que esta enlouquecendo,robotico,distorcoes temporais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+413,apatia,dificuldade em descrever sintomas,automato,experiencia extracorporea,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+414,hipoemotividade,ruminacao,conduta embotada,despersonalizacao,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+415,anestesia emocional,preocupacao,robotico,desrealizacao,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+416,sofrimento intenso,acreditar que esta enlouquecendo,automato,alteracoes perceptuais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+417,medo de dano cerebral,dificuldade em descrever sintomas,conduta embotada,distorcoes visuais,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+418,insensibilidade,ruminacao,robotico,distorcoes auditivas,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+419,inercia,preocupacao,automato,distorcoes temporais,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+420,apatia,acreditar que esta enlouquecendo,conduta embotada,experiencia extracorporea,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+421,hipoemotividade,dificuldade em descrever sintomas,robotico,despersonalizacao,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+422,anestesia emocional,ruminacao,automato,desrealizacao,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+423,sofrimento intenso,preocupacao,conduta embotada,alteracoes perceptuais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+424,medo de dano cerebral,acreditar que esta enlouquecendo,robotico,distorcoes visuais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+425,insensibilidade,dificuldade em descrever sintomas,automato,distorcoes auditivas,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+426,inercia,ruminacao,conduta embotada,distorcoes temporais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+427,apatia,preocupacao,robotico,experiencia extracorporea,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+428,hipoemotividade,acreditar que esta enlouquecendo,automato,despersonalizacao,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+429,anestesia emocional,dificuldade em descrever sintomas,conduta embotada,desrealizacao,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+430,sofrimento intenso,ruminacao,robotico,alteracoes perceptuais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+431,medo de dano cerebral,preocupacao,automato,distorcoes visuais,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+432,insensibilidade,acreditar que esta enlouquecendo,conduta embotada,distorcoes auditivas,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+433,inercia,dificuldade em descrever sintomas,robotico,distorcoes temporais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+434,apatia,ruminacao,automato,experiencia extracorporea,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+435,hipoemotividade,preocupacao,conduta embotada,despersonalizacao,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+436,anestesia emocional,acreditar que esta enlouquecendo,robotico,desrealizacao,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+437,sofrimento intenso,dificuldade em descrever sintomas,automato,alteracoes perceptuais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+438,medo de dano cerebral,ruminacao,conduta embotada,distorcoes visuais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+439,insensibilidade,preocupacao,robotico,distorcoes auditivas,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+440,inercia,acreditar que esta enlouquecendo,automato,distorcoes temporais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+441,apatia,dificuldade em descrever sintomas,conduta embotada,experiencia extracorporea,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+442,hipoemotividade,ruminacao,robotico,despersonalizacao,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+443,anestesia emocional,preocupacao,automato,desrealizacao,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+444,sofrimento intenso,acreditar que esta enlouquecendo,conduta embotada,alteracoes perceptuais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+445,medo de dano cerebral,dificuldade em descrever sintomas,robotico,distorcoes visuais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+446,insensibilidade,ruminacao,automato,distorcoes auditivas,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+447,inercia,preocupacao,conduta embotada,distorcoes temporais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+448,apatia,acreditar que esta enlouquecendo,robotico,experiencia extracorporea,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+449,hipoemotividade,dificuldade em descrever sintomas,automato,despersonalizacao,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+450,anestesia emocional,ruminacao,conduta embotada,desrealizacao,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+451,sofrimento intenso,preocupacao,robotico,alteracoes perceptuais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+452,medo de dano cerebral,acreditar que esta enlouquecendo,automato,distorcoes visuais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+453,insensibilidade,dificuldade em descrever sintomas,conduta embotada,distorcoes auditivas,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+454,inercia,ruminacao,robotico,distorcoes temporais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+455,apatia,preocupacao,automato,experiencia extracorporea,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+456,hipoemotividade,acreditar que esta enlouquecendo,conduta embotada,despersonalizacao,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+457,anestesia emocional,dificuldade em descrever sintomas,robotico,desrealizacao,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+458,sofrimento intenso,ruminacao,automato,alteracoes perceptuais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+459,medo de dano cerebral,preocupacao,conduta embotada,distorcoes visuais,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+460,insensibilidade,acreditar que esta enlouquecendo,robotico,distorcoes auditivas,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+461,inercia,dificuldade em descrever sintomas,automato,distorcoes temporais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+462,apatia,ruminacao,conduta embotada,experiencia extracorporea,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+463,hipoemotividade,preocupacao,robotico,despersonalizacao,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+464,anestesia emocional,acreditar que esta enlouquecendo,automato,desrealizacao,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+465,sofrimento intenso,dificuldade em descrever sintomas,conduta embotada,alteracoes perceptuais,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+466,medo de dano cerebral,ruminacao,robotico,distorcoes visuais,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+467,insensibilidade,preocupacao,automato,distorcoes auditivas,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+468,inercia,acreditar que esta enlouquecendo,conduta embotada,distorcoes temporais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+469,apatia,dificuldade em descrever sintomas,robotico,experiencia extracorporea,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+470,hipoemotividade,ruminacao,automato,despersonalizacao,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+471,anestesia emocional,preocupacao,conduta embotada,desrealizacao,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+472,sofrimento intenso,acreditar que esta enlouquecendo,robotico,alteracoes perceptuais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+473,medo de dano cerebral,dificuldade em descrever sintomas,automato,distorcoes visuais,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+474,insensibilidade,ruminacao,conduta embotada,distorcoes auditivas,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+475,inercia,preocupacao,robotico,distorcoes temporais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+476,apatia,acreditar que esta enlouquecendo,automato,experiencia extracorporea,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+477,hipoemotividade,dificuldade em descrever sintomas,conduta embotada,despersonalizacao,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+478,anestesia emocional,ruminacao,robotico,desrealizacao,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+479,sofrimento intenso,preocupacao,automato,alteracoes perceptuais,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+480,medo de dano cerebral,acreditar que esta enlouquecendo,conduta embotada,distorcoes visuais,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+481,insensibilidade,dificuldade em descrever sintomas,robotico,distorcoes auditivas,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+482,inercia,ruminacao,automato,distorcoes temporais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+483,apatia,preocupacao,conduta embotada,experiencia extracorporea,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+484,hipoemotividade,acreditar que esta enlouquecendo,robotico,despersonalizacao,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+485,anestesia emocional,dificuldade em descrever sintomas,automato,desrealizacao,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+486,sofrimento intenso,ruminacao,conduta embotada,alteracoes perceptuais,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+487,medo de dano cerebral,preocupacao,robotico,distorcoes visuais,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+488,insensibilidade,acreditar que esta enlouquecendo,automato,distorcoes auditivas,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+489,inercia,dificuldade em descrever sintomas,conduta embotada,distorcoes temporais,anestesia fisica,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+490,apatia,ruminacao,robotico,experiencia extracorporea,sintomas somaticos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+491,hipoemotividade,preocupacao,automato,despersonalizacao,perda de controle da fala,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+492,anestesia emocional,acreditar que esta enlouquecendo,conduta embotada,desrealizacao,perda de controle dos movimentos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+493,sofrimento intenso,dificuldade em descrever sintomas,robotico,alteracoes perceptuais,anestesia fisica,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+494,medo de dano cerebral,ruminacao,automato,distorcoes visuais,sintomas somaticos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
+495,insensibilidade,preocupacao,conduta embotada,distorcoes auditivas,perda de controle da fala,depressao,variavel,transtorno de despersonalizacao/desrealizacao
+496,inercia,acreditar que esta enlouquecendo,robotico,distorcoes temporais,perda de controle dos movimentos,ataques de panico,variavel,transtorno de despersonalizacao/desrealizacao
+497,apatia,dificuldade em descrever sintomas,automato,experiencia extracorporea,anestesia fisica,traumas interpessoais na infancia,variavel,transtorno de despersonalizacao/desrealizacao
+498,hipoemotividade,ruminacao,conduta embotada,despersonalizacao,sintomas somaticos,uso de drogas ilicitas,variavel,transtorno de despersonalizacao/desrealizacao
+499,anestesia emocional,preocupacao,robotico,desrealizacao,perda de controle da fala,evento traumatico,variavel,transtorno de despersonalizacao/desrealizacao
+500,sofrimento intenso,acreditar que esta enlouquecendo,automato,alteracoes perceptuais,perda de controle dos movimentos,ansiedade,variavel,transtorno de despersonalizacao/desrealizacao
